@@ -23,7 +23,7 @@ The pipeline follows a 4-stage process:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Core:** Python 3.10+
 - **Scraping:** Crawl4AI, BeautifulSoup4, Requests
