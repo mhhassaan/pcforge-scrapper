@@ -1,0 +1,78 @@
+manufacturer,product_name,ram_type,total_capacity_gb,module_count,module_capacity_gb,speed_mhz,cas_latency,ecc,registered,form_factor,voltage,rgb,heat_spreader
+16,16 GB (1 x 16 GB) DDR5-5600,DDR5,16,1,16,5600,,False,False,SO-DIMM,,False,True
+ADATA,ADATA 16 GB (1 x 16 GB) DDR5-5600 CL46,DDR5,16,1,16,5600,46,False,False,SO-DIMM,1.1,False,False
+ADATA,ADATA 32 GB (1 x 32 GB) DDR5-5600 CL46,DDR5,32,1,32,5600,46,False,False,SO-DIMM,1.1,False,False
+ADATA,ADATA 32 GB (2 x 16 GB) DDR5-5600 CL46,DDR5,32,2,16,5600,46,False,False,DIMM,,False,True
+ADATA,ADATA Premier 16 GB (1 x 16 GB) DDR4-3200 CL22,DDR4,16,1,16,3200,22,False,False,SO-DIMM,1.2,False,False
+ADATA,ADATA Premier 32 GB (1 x 32 GB) DDR4-3200 CL22,DDR4,32,1,32,3200,22,False,False,SO-DIMM,1.2,False,True
+ADATA,ADATA Premier 8 GB (1 x 8 GB) DDR4-3200 CL22,DDR4,8,1,8,3200,22,False,False,DIMM,1.2,False,True
+ADATA,ADATA Premier 8 GB DDR5-5600 CL?,DDR5,8,1,8,5600,,False,False,SO-DIMM,,False,False
+ADATA,ADATA Premier 16 GB (1 x 16 GB) DDR4-3200,DDR4,16,1,16,3200,,False,False,DIMM,,False,False
+ADATA,ADATA Premier 32 GB (1 x 32 GB) DDR4-3200,DDR4,32,1,32,3200,,False,False,DIMM,,False,False
+ADATA,ADATA Premier 8 GB (1 x 8 GB) DDR4-3200,DDR4,8,1,8,3200,,False,False,DIMM,,False,True
+ADATA,ADATA Premier 16 GB (1 x 16 GB) DDR5-5600,DDR5,16,1,16,5600,,False,False,DIMM,,False,True
+ADATA,ADATA Premier 32 GB (1 x 32 GB) DDR5-5600,DDR5,32,1,32,5600,,False,False,DIMM,,False,True
+ADATA,ADATA Premier 16 GB (1 x 16 GB) DDR4-3200 CL22 SO-DIMM,DDR4,16,1,16,3200,22,False,False,SO-DIMM,1.2,False,False
+ADATA,ADATA Premier 8 GB (1 x 8 GB) DDR5-5600,DDR5,8,1,8,5600,,True,False,DIMM,,False,True
+Apacer,Apacer 8 GB DDR4-3200 CL22,DDR4,8,1,8,3200,22,False,False,SO-DIMM,1.2,False,False
+Apacer,Apacer NOX RGB 32 GB DDR5,DDR5,32,1,32,4800,40,False,False,DIMM,1.1,True,True
+Corsair,Corsair Vengeance LPX 64 GB (2 x 32 GB) DDR5-5600 CL40,DDR5,64,2,32,5600,40,False,False,DIMM,1.25,False,True
+G.Skill,G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-6000 CL30,DDR5,32,2,16,6000,30,False,False,DIMM,1.35,False,True
+G.Skill,G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL30,DDR5,32,2,16,6000,30,False,False,DIMM,1.35,True,True
+HIKSEMI,HIKSEMI HIKER 8 GB DDR4-3200,DDR4,8,1,8,3200,,False,False,DIMM,,False,True
+Lexar,Lexar 16 GB (1 x 16 GB) DDR5-5600,DDR5,16,1,16,5600,,False,False,DIMM,,False,True
+Transcend,Transcend 8 GB (1 x 8 GB) DDR5-5600,DDR5,8,1,8,5600,,False,False,DIMM,,False,True
+Corsair,Corsair Dominator Titanium RGB 96 GB (2 x 48 GB) DDR5-6600 CL32,DDR5,96,2,48,6600,32,False,False,DIMM,1.4,True,True
+Corsair,Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000,DDR5,64,2,32,6000,,False,False,DIMM,,True,True
+Crucial,Crucial 16 GB (1 x 16 GB) DDR4-3200,DDR4,16,1,16,3200,,False,False,SO-DIMM,,False,False
+G.Skill,G.Skill Trident Z5 Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL36,DDR5,32,2,16,6000,36,False,False,DIMM,1.35,True,True
+G.Skill,G.Skill Trident Z5 Neo RGB 64 GB (2 x 32 GB) DDR5-6000,DDR5,64,2,32,6000,,False,False,DIMM,,True,True
+G.Skill,G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000,DDR5,32,2,16,6000,,False,False,DIMM,,True,True
+G.Skill,G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6400 CL32,DDR5,32,2,16,6400,32,False,False,DIMM,,True,True
+G.Skill,G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6400,DDR5,32,2,16,6400,,False,False,DIMM,,True,True
+G.Skill,G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36,DDR5,32,2,16,6000,36,False,False,DIMM,1.35,True,True
+HIKSEMI,HIKSEMI ARMOR 16 GB DDR4-3200,DDR4,16,1,16,3200,,False,False,DIMM,,False,True
+HikSemi,HikSemi Hiker 16 GB DDR4-3200,DDR4,16,1,16,3200,,False,False,DIMM,,False,True
+HikSemi,HikSemi Hiker 16 GB (1 x 16 GB) DDR4-3200,DDR4,16,1,16,3200,,False,False,SO-DIMM,,False,False
+ID-Cooling,ID-Cooling SE-214-XT V2 ARGB CPU Air Cooler,,,,,,,,,,,,
+Kingston,Kingston FURY Beast 16 GB (1 x 16 GB) DDR5-5600,DDR5,16,1,16,5600,,False,False,DIMM,,False,True
+Lexar,Lexar 16 GB (1 x 16 GB) DDR4-3200,DDR4,16,1,16,3200,,False,False,DIMM,,False,True
+Lexar,Lexar 32 GB (1 x 32 GB) DDR4-3200,DDR4,32,1,32,3200,,False,False,DIMM,,False,True
+Lexar,Lexar 32 GB DDR5-5600 SO-DIMM,DDR5,32,1,32,5600,,False,False,SO-DIMM,,False,False
+Lexar,Lexar 8 GB (1 x 8 GB) DDR4-3200,DDR4,8,1,8,3200,,False,False,DIMM,,False,True
+Lexar,Lexar 8 GB DDR4-3200 SO-DIMM,DDR4,8,1,8,3200,,False,False,SO-DIMM,,False,False
+Lexar,Lexar 16 GB DDR4-3200 SO-DIMM,DDR4,16,1,16,3200,,False,False,SO-DIMM,,False,False
+Lexar,Lexar 32 GB (2 x 16 GB) DDR4-3200,DDR4,32,2,16,3200,,False,False,DIMM,,False,True
+Lexar,Lexar 16 GB (1 x 16 GB) DDR5-5600 SODIMM,DDR5,16,1,16,5600,,False,False,SO-DIMM,,False,False
+Lexar,Lexar 16 GB (1 x 16 GB) DDR4-3200 CL22,DDR4,16,1,16,3200,22,False,False,SO-DIMM,1.2,False,False
+Lexar,Lexar 16 GB DDR5-5600 SO-DIMM,DDR5,16,1,16,5600,,False,False,SO-DIMM,,False,False
+OSCOO,OSCOO 4 GB DDR4-2666 CL22 SO-DIMM,DDR4,4,1,4,2666,22,False,False,SO-DIMM,1.2,False,False
+Patriot,Patriot Signature Line 32 GB (2 x 16 GB) DDR5-5600,DDR5,32,2,16,5600,,False,False,SO-DIMM,,False,True
+TeamGroup,TeamGroup Elite 16 GB (1 x 16 GB) DDR4-3200,DDR4,16,1,16,3200,,False,False,DIMM,,False,True
+TeamGroup,TeamGroup Elite 32 GB (2 x 16 GB) DDR5-5600 CL46,DDR5,32,2,16,5600,46,False,False,DIMM,1.1,False,True
+TeamGroup,TeamGroup T-Force Delta 16 GB (2 x 8 GB) DDR5-5200 CL40,DDR5,16,2,8,5200,40,False,False,DIMM,1.25,True,True
+Team,Team T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6400 CL40,DDR5,32,2,16,6400,40,False,False,DIMM,1.4,True,True
+TeamGroup,TeamGroup T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6400 CL40,DDR5,32,2,16,6400,40,False,False,DIMM,1.4,True,True
+Team,Team T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-5600 CL36,DDR5,32,2,16,5600,36,False,False,DIMM,1.25,True,True
+TeamGroup,TeamGroup T-Force Vulcan 32 GB (2 x 16 GB) DDR5-6000 CL38,DDR5,32,2,16,6000,38,False,False,DIMM,,False,True
+Transcend,Transcend 16 GB DDR4-2666,DDR4,16,1,16,2666,,False,False,DIMM,,False,True
+Transcend,Transcend 16 GB (1 x 16 GB) DDR4-2666 CL19,DDR4,16,1,16,2666,19,False,False,DIMM,,False,False
+Transcend,Transcend 32 GB (1 x 32 GB) DDR5-5600 CL46,DDR5,32,1,32,5600,46,False,False,SO-DIMM,1.1,False,False
+Transcend,Transcend 32 GB (1 x 32 GB) DDR5-6400 CL52,DDR5,32,1,32,6400,52,False,False,DIMM,,False,True
+Transcend,Transcend 4 GB DDR4-2666 CL19 Memory Module,DDR4,4,1,4,2666,19,False,False,DIMM,1.2,False,False
+Transcend,Transcend 8 GB (1 x 8 GB) DDR4-3200,DDR4,8,1,8,3200,,False,False,DIMM,,False,False
+Transcend,Transcend 16 GB (1 x 16 GB) DDR4-3200 CL22,DDR4,16,1,16,3200,22,False,False,DIMM,1.2,False,True
+Transcend,Transcend 32 GB (1 x 32 GB) DDR4-3200 CL22,DDR4,32,1,32,3200,22,False,False,DIMM,,False,False
+Transcend,Transcend JetRam 16 GB (1 x 16 GB) DDR5-5600 CL46,DDR5,16,1,16,5600,46,False,False,SO-DIMM,1.1,False,False
+Transcend,Transcend JetRam 16 GB (1 x 16 GB) DDR5-6400 CL52,DDR5,16,1,16,6400,52,False,False,SO-DIMM,1.1,False,False
+Transcend,Transcend JetRam 16 GB (1 x 16 GB) DDR5-4800 CL40,DDR5,16,1,16,4800,40,False,False,SO-DIMM,1.1,False,False
+Transcend,Transcend JetRam 32 GB (1 x 32 GB) DDR5-4800 CL40,DDR5,32,1,32,4800,40,False,False,SO-DIMM,,False,False
+Transcend,Transcend JetRam 8 GB (1 x 8 GB) DDR5-4800 CL40,DDR5,8,1,8,4800,40,False,False,DIMM,1.1,False,True
+TwinMOS,TwinMOS 4 GB DDR4-3200 CL22 SO-DIMM,DDR4,4,1,4,3200,22,False,False,SO-DIMM,1.2,False,False
+Patriot,Patriot Viper Venom RGB 32 GB (2 x 16 GB) DDR5-6000 CL30,DDR5,32,2,16,6000,30,False,False,DIMM,1.35,True,True
+XPG,XPG Lancer Blade 64 GB (2 x 32 GB) DDR5-6000 CL30,DDR5,64,2,32,6000,30,False,False,DIMM,,False,True
+XPG,XPG Lancer Blade RGB 32 GB (2 x 16 GB) DDR5-6000 CL36,DDR5,32,2,16,6000,36,False,False,DIMM,1.35,True,True
+XPG,XPG Lancer Blade RGB 64 GB (2 x 32 GB) DDR5-6000 CL30,DDR5,64,2,32,6000,30,False,False,DIMM,,True,True
+XPG,XPG Spectrix D35G RGB 16 GB (2 x 8 GB) DDR4-3200 CL18,DDR4,16,2,8,3200,18,False,False,DIMM,1.35,True,True
+XPG,XPG Spectrix D35G RGB 32 GB (2 x 16 GB) DDR4-3200 CL18,DDR4,32,2,16,3200,18,False,False,DIMM,1.35,True,True
+XPG,XPG Spectrix D35G RGB 32 GB (2 x 16 GB) DDR4-3600 CL18,DDR4,32,2,16,3600,18,False,False,DIMM,1.35,True,True

@@ -1,0 +1,67 @@
+manufacturer,product_name,socket,cores,threads,base_clock_ghz,boost_clock_ghz,tdp_watts,integrated_graphics,lithography
+AMD,AMD Ryzen 5 2600 Tray,AM4,6,12,3.4,3.9,65,None,12
+AMD,AMD Ryzen 5 3600X Boxed,AM4,6,12,3.8,4.4,95,None,7
+AMD,AMD Ryzen 5 7500F Boxed,AM5,6,12,3.7,5.0,65,None,5
+AMD,AMD Ryzen 5 7600X Boxed,AM5,6,12,4.7,5.3,105,AMD Radeon Graphics,5
+AMD,AMD Ryzen 7 5800X Tray,AM4,8,16,3.8,4.7,105,None,7
+AMD,AMD Ryzen 7 7700 Tray,AM5,8,16,3.8,5.3,65,AMD Radeon Graphics,5
+AMD,AMD Ryzen 3 4100 Tray,AM4,4,8,3.8,4.0,65,None,7
+AMD,AMD Ryzen 5 1600 Tray,AM4,6,12,3.6,4.0,95,None,14
+AMD,AMD Ryzen 5 2600X Tray,AM4,6,12,3.6,4.2,95,None,12
+AMD,AMD Ryzen 5 3500X Boxed,AM4,6,6,3.6,4.1,65,None,7
+AMD,AMD Ryzen 5 3600 Tray,AM4,6,12,3.6,4.2,65,None,7
+AMD,AMD Ryzen 5 3600 Boxed,AM4,6,12,3.6,4.2,65,None,7
+AMD,AMD Ryzen 5 4500 Tray,AM4,6,12,3.6,4.1,65,None,7
+AMD,AMD Ryzen 5 5600 Tray,AM4,6,12,3.5,4.4,65,None,7
+AMD,AMD Ryzen 5 5600X Tray,AM4,6,12,3.7,4.6,65,None,7
+AMD,AMD Ryzen 5 7500F Tray,AM5,6,12,3.7,5.0,65,None,5
+AMD,AMD Ryzen 5 7600 Boxed,AM5,6,12,3.8,5.1,65,AMD Radeon Graphics,5
+AMD,AMD Ryzen 5 7600X Tray,AM5,6,12,4.7,5.3,105,AMD Radeon Graphics,5
+AMD,AMD Ryzen 5 8400F Tray,AM5,6,12,4.2,,65,None,4
+AMD,AMD Ryzen 5 9600X Tray,AM5,6,12,,,,AMD Radeon Graphics,4
+AMD,AMD Ryzen 7 5700X Boxed,AM4,8,16,3.4,4.6,65,None,7
+AMD,AMD Ryzen 7 5700X Tray,AM4,8,16,3.4,4.6,65,None,7
+AMD,AMD Ryzen 7 5700X3D Tray,AM4,8,16,3.0,4.1,105,None,7
+AMD,AMD Ryzen 7 7700X Boxed,AM5,8,16,4.5,5.4,105,AMD Radeon Graphics,5
+AMD,AMD Ryzen 7 7800X3D Boxed,AM5,8,16,4.2,5.0,120,AMD Radeon Graphics,5
+AMD,AMD Ryzen 7 7800X3D Tray,AM5,8,16,4.2,5.0,120,AMD Radeon Graphics,5
+AMD,AMD Ryzen 7 9700X Tray,AM5,8,16,3.8,,,AMD Radeon Graphics,4
+AMD,AMD Ryzen 7 9800X3D Boxed,AM5,8,16,4.7,,,None,
+AMD,AMD Ryzen 7 9800X3D Tray,AM5,8,16,4.7,,,None,
+AMD,AMD Ryzen 9 7950X3D Tray,AM5,16,32,4.2,5.7,120,AMD Radeon Graphics,5
+AMD,AMD Ryzen 9 9900X Boxed,AM5,12,24,4.4,,,None,
+AMD,AMD Ryzen 9 9900X3D Boxed,AM5,12,24,4.4,,,AMD Radeon Graphics,4
+AMD,AMD Ryzen 9 9950X Tray,AM5,16,32,,,,AMD Radeon Graphics,4
+AMD,AMD Ryzen 9 9950X3D Boxed,AM5,16,32,4.4,,,None,
+AMD,AMD Ryzen 9 9950X Boxed,AM5,16,32,4.3,5.7,170,AMD Radeon Graphics,4
+Intel,Intel Core Ultra 7 265K Boxed,LGA1851,16,16,3.7,5.5,125,Intel Arc Graphics,3
+Intel,Intel Core i5-12400F Tray,LGA1700,6,12,2.5,4.4,65,None,10
+Intel,Intel Core i7-12700K Boxed,LGA1700,12,20,3.6,5.0,125,Intel UHD Graphics 770,10
+Intel,Intel Core i7 14700K Tray,LGA1700,20,28,3.4,5.6,125,Intel UHD Graphics 770,10
+Intel,Intel Core i9-12900K Boxed,LGA1700,16,24,3.2,5.2,125,Intel UHD Graphics 770,10
+Intel,Intel Core i3-12100 Tray,LGA1700,4,8,3.3,4.3,60,Intel UHD Graphics 730,10
+Intel,Intel Core i5-12600K Boxed,LGA1700,10,16,3.7,4.9,125,Intel UHD Graphics 770,10
+Intel,Intel Core i5-12600KF Boxed,LGA1700,10,16,3.7,4.9,125,None,10
+Intel,Intel Core i5-13600K Boxed,LGA1700,14,20,3.5,5.1,125,Intel UHD Graphics 770,10
+Intel,Intel Core i7-14700 Boxed,LGA1700,20,28,2.1,5.4,65,Intel UHD Graphics 770,10
+Intel,Intel Core i7-14700F Boxed,LGA1700,20,28,2.1,5.4,65,None,10
+Intel,Intel Core i3-12100F Boxed,LGA1700,4,8,3.3,4.3,58,None,10
+Intel,Intel Core Ultra 5 245K Boxed,LGA1851,14,14,,5.2,,Intel Graphics,4
+Intel,Intel Core Ultra 7 265 Boxed,LGA1851,20,20,,5.3,,Intel Arc Graphics,7
+Intel,Intel Core Ultra 7 265F Boxed,LGA1851,20,20,,5.3,,None,
+Intel,Intel Core Ultra 9 285 Boxed,LGA1851,24,24,,5.6,,Intel Arc Graphics,4
+Intel,Intel Core Ultra 9 285K Boxed,LGA1851,24,24,,5.7,,Intel Arc Graphics,3
+Intel,Intel Core i5 12400F Boxed,LGA1700,6,12,2.5,4.4,65,None,10
+Intel,Intel Core i5-10400F Tray,LGA1200,6,12,2.9,4.3,65,None,14
+Intel,Intel Core i5-11400F Boxed,LGA1200,6,12,2.6,4.4,65,None,14
+Intel,Intel Core i5-13400F Tray,LGA1700,10,16,2.5,4.6,65,None,10
+Intel,Intel Core i5-14400F Tray,LGA1700,10,16,2.5,4.7,65,None,10
+Intel,Intel Core i5-14600K Tray,LGA1700,14,20,3.5,5.3,125,Intel UHD Graphics 770,10
+Intel,Intel Core i5-14600KF Boxed,LGA1700,14,20,3.5,,,None,
+Intel,Intel Core i7-13700KF Boxed,LGA1700,16,24,3.4,5.4,125,None,10
+Intel,Intel Core i7-14700 Tray,LGA1700,20,28,2.1,,,Intel UHD Graphics 770,10
+Intel,Intel Core i7-14700K Tray,LGA1700,20,28,3.4,5.6,125,Intel UHD Graphics 770,10
+Intel,Intel Core i7-14700K Boxed,LGA1700,20,28,3.4,5.6,125,Intel UHD Graphics 770,10
+Intel,Intel Core i7-14700KF Tray,LGA1700,20,28,3.4,5.6,125,None,10
+Intel,Intel Core i9-13900K Tray,LGA1700,24,32,3.0,5.8,125,Intel UHD Graphics 770,10
+Intel,Intel Core i9-14900KF Boxed,LGA1700,24,32,3.2,6.0,125,None,7

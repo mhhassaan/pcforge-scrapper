@@ -1,0 +1,423 @@
+manufacturer,product_name,case_form_factor,supported_motherboard_form_factors,max_gpu_length_mm,max_cpu_cooler_height_mm,expansion_slots,internal_3_5_bays,internal_2_5_bays,has_transparent_side_panel,side_panel_type,supported_psu_form_factors,width_mm,height_mm,depth_mm
+1ST,1ST PLAYER X4-M ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+1STPLAYER,1STPLAYER RT5 MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,380
+1STPLAYER,1STPLAYER RT7 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+1STPLAYER,1STPLAYER X4 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+1STPLAYER,1STPLAYER X4-M ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,460,420
+1st,1st Player FireBase X2 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",330,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,380
+1st,1st Player Go2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,390
+1st,1st Player RT5 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+1st,1st Player RT7 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+1st,1st Player T7 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+1st,1st Player UV6 FISK TANK MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,380
+1st,1st Player X4-M MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,155,4,2,2,True,Tempered Glass,"{""ATX""}",190,380,400
+ASUS,ASUS A21 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+ASUS,ASUS A32 PLUS ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Asus,Asus A32 Plus TG ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+ASUS,ASUS A32 Plus TG ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Asus,Asus ProArt PA401 Wood Edition ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,495,450
+ASUS,ASUS ProArt PA401 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Asus,Asus ProArt PA401 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,475,450
+Asus,Asus ProArt PA602 E-ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,185,8,4,4,True,Tempered Glass,"{""ATX""}",250,592,591
+Asus,Asus ROG Hyperion GR701 E-ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",460,190,8,4,6,True,Tempered Glass,"{""ATX""}",251,677,639
+Asus,Asus ROG Strix Helios GX601 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,190,7,2,4,True,Tempered Glass,"{""ATX""}",250,566,591
+Asus,Asus ROG Strix Helios II GX601S E-ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,190,8,2,4,True,Tempered Glass,"{""ATX""}",250,566,591
+Asus,Asus TUF Gaming GT501 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,180,7,2,4,True,Tempered Glass,"{""ATX""}",250,550,550
+Asus,Asus TUF Gaming GT302 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,3,True,Tempered Glass,"{""ATX""}",250,495,450
+Asus,Asus TUF Gaming GT302 ARGB ATX Mid Tower Case (White),ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,175,7,2,3,True,Tempered Glass,"{""ATX""}",245,495,450
+Asus,Asus TUF Gaming GT502 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,190,8,2,4,True,Tempered Glass,"{""ATX""}",250,550,500
+Acer,Acer U600 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+AeroCool,AeroCool Split ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Acrylic,"{""ATX""}",210,450,430
+Aerocool,Aerocool Delta ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Aerocool,Aerocool Falcon ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Aerocool,Aerocool Trinity Mini MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",185,380,380
+Asus,Asus ROG Strix Helios ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,190,8,4,6,True,Tempered Glass,"{""ATX""}",250,591,566
+Asus,Asus ROG Strix Helios GX601 ATX Full Tower Case (White),ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,190,8,2,4,True,Tempered Glass,"{""ATX""}",250,593,591
+Asus,Asus ROG Hyperion GR701 E-ATX Full Tower Case (White),ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",460,190,8,4,6,True,Tempered Glass,"{""ATX""}",248,660,696
+Cougar,Cougar Airface RGB ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Cougar,Cougar DuoFace RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Cougar,Cougar FV150 RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,430
+Cougar,Cougar FV270 RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Bloody,Bloody GH-30 ROGUE ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Cheetah ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Cheetah Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Enclosure Elite Series X100 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,495,450
+Boost,Boost Enclosure Elite Series X200 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Enclosure Essential Series E200 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Enclosure Pro Series P100 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Enclosure Pro Series P200 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Enclosure Pro Series P300 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Boost,Boost Fox ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Jaguar ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Jaguar RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Lion ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Panther ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX""}",320,160,7,2,2,True,Acrylic,"{""ATX""}",210,480,450
+Boost,Boost Peacock ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Peacock Gaming Case White,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Puma ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost T-Rex Gaming ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Tiger Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Tiger ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Unicorn ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Wolf ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Boost,Boost Wolf Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+1st,1st Player X4-Mini,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",195,380,400
+Boost,Boost Enclosure Essential Series E100 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Cooler,Cooler Master Cosmos C700M ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",490,190,8,4,6,True,Tempered Glass,"{""ATX""}",287,697,667
+Cooler,Cooler Master HAF 700 E-ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",490,190,8,4,6,True,Tempered Glass,"{""ATX""}",252,593,593
+Cooler,Cooler Master HAF 700 EVO E-ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",490,190,9,4,6,True,Tempered Glass,"{""ATX""}",285,660,677
+Cooler,Cooler Master MasterFrame 700 Open-Air Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,185,7,2,3,True,Tempered Glass,"{""ATX""}",250,520,500
+Corsair,Corsair Crystal Series 280X MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",300,150,7,2,4,True,Tempered Glass,"{""ATX""}",276,395,395
+DarkFlash,DarkFlash FT418 PRO ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,480,450
+Darkflash,Darkflash A290 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Deepcool,Deepcool Matrexx 55 V3 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",370,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,467,450
+EASE,EASE EC123B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+EASE,EASE EC124B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+EASE,EASE EC144B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+FROZER,FROZER Aura ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+FROZER,FROZER Nova ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+FROZER,FROZER Skyline ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+FROZER,FROZER Space MT ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Frozer,Frozer Dreamer ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+HYTE,HYTE Y40 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",285,495,460
+HYTE,HYTE Y60 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",375,160,7,2,4,True,Tempered Glass,"{""ATX""}",336,476,336
+Lian,Lian Li A3-mATX MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",205,380,425
+Lian,Lian Li LANCOOL 205M Mesh White MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,385,400
+Lian,Lian Li LANCOOL 217 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,185,8,2,4,True,Tempered Glass,"{""ATX""}",235,520,505
+Lian,Lian Li Lancool II Mesh ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",384,176,7,3,3,True,Tempered Glass,"{""ATX""}",478,478,229
+Lian,Lian Li Lancool 207 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",370,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Lian,Lian Li O11 Dynamic EVO ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",460,167,8,3,6,True,Tempered Glass,"{""ATX""}",285,465,459
+Lian,Lian Li O11 Dynamic Mini V2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",395,170,7,2,4,True,Tempered Glass,"{""SFX"",""SFX-L""}",288,420,400
+Lian,Lian Li Vector V100 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",220,470,450
+Lian,Lian Li O11 Vision Compact ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,162,7,2,4,True,Tempered Glass,"{""ATX""}",285,446,459
+MSI,MSI MAG Forge M100A MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",310,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,410,380
+MSI,MSI MPG GUNGNIR 300R AIRFLOW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,170,7,2,2,True,Tempered Glass,"{""ATX""}",210,490,450
+Lian,Lian Li O11 Dynamic EVO RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX"",""E-ATX""}",460,167,8,3,6,True,Tempered Glass,"{""ATX""}",285,465,459
+SAMA,SAMA V Nature ARGB Wooden Panel ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,440
+Silverstone,Silverstone FARA 511Z ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Silverstone,Silverstone FARA 512Z ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Silverstone,Silverstone FARA 514X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,475,450
+Silverstone,Silverstone FARA B1 V2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Silverstone,Silverstone FARA R1 Pro V2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",345,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Sonic,Sonic H7 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Sonic,Sonic K1O ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Sonic,Sonic R19 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+XPG,XPG Invader X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+XPG,XPG Valor Air Plus ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Corsair,Corsair 7000D Airflow ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX"",""E-ATX""}",450,185,8,4,6,True,Tempered Glass,"{""ATX""}",248,600,600
+Corsair,Corsair iCUE 5000X RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",248,520,520
+Cougar,Cougar Airface 180 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,405
+Cougar,Cougar Airface FLO RGB ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,475,450
+Cougar,Cougar Airface Pure RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+Cougar,Cougar Archon 2 Mesh RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Cougar,Cougar CFV235 RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Cougar,Cougar Duoface RGB ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Cougar,Cougar FV150 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Cougar,Cougar FV270 ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,,,,,True,Tempered Glass,"{""ATX""}",,,
+Cougar,Cougar MX110 RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,155,7,2,2,True,Acrylic,"{""ATX""}",185,380,400
+Cougar,Cougar MX600 RGB E-ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,185,8,2,4,True,Tempered Glass,"{""ATX""}",250,550,550
+Cooler,Cooler Master CMP 320 ARGB MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,155,4,2,2,True,Tempered Glass,"{""ATX""}",205,395,400
+Cooler,Cooler Master CMP 520 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Cooler,Cooler Master Elite 502 ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,495,450
+Cooler,Cooler Master Elite 600 Panoramic ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Cooler,Cooler Master Elite 681 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Cooler,Cooler Master MasterBox 520 Mesh ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX"",""E-ATX""}",410,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,495,475
+Cooler,Cooler Master MasterBox 520 Mesh White ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",410,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,497,478
+Cooler,Cooler Master MasterFrame 500 Mesh ARGB EATX Mid Tower Case,ATX Mid Tower,"{""EATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,175,8,2,4,True,Tempered Glass,"{""ATX""}",240,520,500
+Cooler,Cooler Master MasterFrame 500 Mesh ARGB ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,180,8,2,4,True,Tempered Glass,"{""ATX""}",240,530,500
+Cooler,Cooler Master MasterFrame 600 ATX Mid Tower Case,ATX Mid Tower,"{""EATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,185,8,2,3,True,Tempered Glass,"{""ATX""}",250,530,530
+Cooler,Cooler Master MasterFrame ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,3,True,Tempered Glass,"{""ATX""}",230,495,500
+Cooler,Cooler Master MasterFrame Panel – Natural Silver,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",410,185,8,2,3,True,Tempered Glass,"{""ATX""}",250,495,490
+Cooler,Cooler Master MasterFrame Case Panel – Stone Silver,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",410,185,7,2,2,True,Tempered Glass,"{""ATX""}",210,495,497
+Cooler,Cooler Master QUBE 540 ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,3,True,Tempered Glass,"{""ATX""}",250,540,540
+Cooler,Cooler Master Qube 540 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,3,True,Tempered Glass,"{""ATX""}",250,450,450
+Corsair,Corsair 2500D Airflow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",365,170,7,2,3,True,Tempered Glass,"{""ATX""}",250,458,466
+Corsair,Corsair 2500X Airflow Micro ATX Dual Chamber PC Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",365,170,7,2,3,True,Tempered Glass,"{""ATX""}",250,458,466
+Corsair,Corsair 2500X Airflow MicroATX Dual Chamber Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",360,170,4,2,4,True,Tempered Glass,"{""ATX""}",250,458,466
+Corsair,Corsair 3000D Airflow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",360,170,7,2,2,True,Tempered Glass,"{""ATX""}",210,466,453
+Corsair,Corsair 3000D RGB Airflow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",360,170,7,2,4,True,Tempered Glass,"{""ATX""}",210,466,453
+Corsair,Corsair 3500X ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",360,170,7,2,4,True,Tempered Glass,"{""ATX""}",210,480,450
+Corsair,Corsair 3500X ARGB ATX Mid Tower Case (White),ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",360,170,7,2,2,True,Tempered Glass,"{""ATX""}",230,480,450
+Corsair,Corsair 3500X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",230,495,475
+Corsair,Corsair 4000D Airflow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",360,170,7,2,2,True,Tempered Glass,"{""ATX""}",210,453,466
+Corsair,Corsair 5000D Airflow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,185,8,2,4,True,Tempered Glass,"{""ATX""}",245,520,520
+Corsair,Corsair 6500D Airflow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",450,185,8,4,6,True,Tempered Glass,"{""ATX""}",250,550,550
+Corsair,Corsair 6500X AIRFLOW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,185,8,3,4,True,Tempered Glass,"{""ATX""}",250,550,550
+Corsair,Corsair 6500X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,185,8,2,4,True,Tempered Glass,"{""ATX""}",250,520,500
+Corsair,Corsair 9000D Airflow ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",500,190,10,4,6,True,Tempered Glass,"{""ATX""}",248,622,600
+Corsair,Corsair AIR 5400 LX-R ARGB iCUE Link ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,4,True,Tempered Glass,"{""ATX""}",250,520,500
+Corsair,Corsair AIR 5400 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,4,True,Tempered Glass,"{""ATX""}",250,500,500
+Corsair,Corsair Air 5400 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",250,500,500
+Corsair,Corsair 4500X RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",250,520,520
+Corsair,Corsair 4500X iCUE Link ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",250,520,520
+Corsair,Corsair 4500X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",250,520,520
+Corsair,Corsair Obsidian Series 1000D ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX"",""EATX"",""XL-ATX""}",475,190,10,6,4,True,Tempered Glass,"{""ATX""}",287,696,696
+Corsair,Corsair iCUE 7000X RGB ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX"",""EATX""}",450,185,8,4,4,True,Tempered Glass,"{""ATX""}",248,600,600
+Corsair,Corsair iCUE LINK 2500X RGB Micro ATX Dual Chamber PC Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",365,165,7,2,4,True,Tempered Glass,"{""ATX""}",250,450,465
+Cougar,Cougar Airface 180 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Cougar,Cougar Archon 2 Mesh RGB ATX Mid Tower Case (White),ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,155,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Cougar,Cougar CFV235 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Cougar,Cougar Conquer 2 ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,160,8,2,2,True,Tempered Glass,"{""ATX""}",250,570,570
+Cougar,Cougar FV150 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,420
+Cougar,Cougar FV150 Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,155,4,2,2,True,Tempered Glass,"{""ATX""}",200,380,380
+Cougar,Cougar MX110 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,155,7,2,2,True,Acrylic,"{""ATX""}",185,380,410
+Cougar,Cougar MX360 RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Cougar,Cougar MX600 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,480,450
+CrystalX,CrystalX CoreView ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+CrystalX,CrystalX CoreView V950B-L ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,495,450
+CrystalX,CrystalX CyberVision ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,480,450
+CrystalX,CrystalX U600B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+CrystalX,CrystalX Vortex Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+CrystalX,CrystalX Vortex Pro V-331 ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,3,True,Tempered Glass,"{""ATX""}",230,510,490
+DarkFlash,DarkFlash A290 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+DarkFlash,DarkFlash DK351 ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+DarkFlash,DarkFlash DK210 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+DarkFlash,DarkFlash DK352 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+DarkFlash,DarkFlash DK353 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,410
+DarkFlash,DarkFlash DQX90 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+DarkFlash,DarkFlash Rainbow-1 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",340,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Darkflash,Darkflash DK100 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",200,380,400
+Darkflash,Darkflash DK353 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+E-Dragon,E-Dragon Light Fury EG-1116 MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",200,380,400
+E-Dragon,E-Dragon Light Fury EG-1116 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+E-Dragon,E-Dragon Syrax ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+EASE,EASE EC124B Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+EASE,EASE EC125 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+EASE,EASE EC141B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+EASE,EASE EM123B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+EOC300W,EOC300W ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",300,155,7,2,2,True,Acrylic,"{""ATX""}",210,450,400
+Ease,Ease EC120 Mesh ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Ease,Ease EC125B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Ease,Ease EOC250W MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",250,155,4,1,1,False,None,"{""ATX""}",180,350,380
+FSP,FSP CMT218 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+FSP,FSP CMT218 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",340,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+FSP,FSP VENTO VG15FE ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,420
+FSP,FSP VG15FE ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+GAMEMAX,GAMEMAX V4.0 ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+GFury,GFury Edge GF-2200 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+GFury,GFury Fire GF-120 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Gigabyte,Gigabyte AORUS C500 Glass ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,3,True,Tempered Glass,"{""ATX""}",230,500,500
+Gigabyte,Gigabyte AORUS C601 Glass ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,4,True,Tempered Glass,"{""ATX""}",230,495,485
+Gigabyte,Gigabyte AORUS C700 Glass ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",450,180,8,3,4,True,Tempered Glass,"{""ATX""}",280,600,600
+Gigabyte,Gigabyte C103 Glass ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,475,450
+Gigabyte,Gigabyte C200 Glass ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,420
+Gigabyte,Gigabyte C201 Panoramic ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,2,True,Tempered Glass,"{""ATX""}",230,495,450
+Gigabyte,Gigabyte C301G ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",370,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Gigabyte,Gigabyte C500 Panoramic ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,2,True,Tempered Glass,"{""ATX""}",230,495,450
+Gamdias,Gamdias Apollo E2 Elite ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,460,450
+Gamdias,Gamdias Apollo M1 Elite ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,430
+Gamdias,Gamdias Argus M1 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Gamdias,Gamdias Athena E1 Elite ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Gamdias,Gamdias Athena M1 Elite ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Gamdias,Gamdias Mars M1 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,450
+Gamdias,Gamdias Mars M2 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Gamdias,Gamdias Talos E2 Elite ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Gamdias,Gamdias Talos M1 Elite ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Gamdias,Gamdias Talos M1B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Gamdias,Gamdias Talos P1A ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+GameMAx,GameMAx Vista MB MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",330,165,4,2,2,True,Tempered Glass,"{""ATX""}",210,390,400
+GameMAx,GameMAx Vista MW MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",300,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,390
+GameMax,GameMax 12VHPWR ARGB PSU Extension Cable,,{},,,,,,False,,{},,,
+GameMax,GameMax CLAW 460 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,460,460
+GameMax,GameMax DESTROYER TGB MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",200,380,400
+GameMax,GameMax Defender TG MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",200,380,400
+GameMax,GameMax Destroyer TGB MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,420,390
+GameMax,GameMax EDGE Mini Tower,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",0,0,0,0,0,False,None,"{""ATX""}",0,0,0
+GameMax,GameMax EDGE Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",200,380,420
+GameMax,GameMax Edge ARGB MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+GameMax,GameMax FORGE AB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,460,430
+GameMax,GameMax Forge AB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+GameMax,GameMax HYPE ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+GameMax,GameMax HYPE-A ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+GameMax,GameMax INFINITY Mini ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+GameMax,GameMax Infinity Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+GameMax,GameMax Infinity Pro HW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",215,480,450
+GameMax,GameMax Infinity ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,2,True,Tempered Glass,"{""ATX""}",230,520,500
+GameMax,GameMax Infinity BK ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,410
+GameMax,GameMax Infinity HW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,420
+GameMax,GameMax Infinity Mini MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",350,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,400
+GameMax,GameMax Infinity Mini ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+GameMax,GameMax Infinity PRO ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+GameMax,GameMax LEADER 2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+GameMax,GameMax Leader 2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,420
+GameMax,GameMax Leader 2 HW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+GameMax,GameMax VISTA ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,430
+GameMax,GameMax Vista ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,420
+GameMax,GameMax Vista COC AW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+GameMax,GameMax Vista MB MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+GameMax,GameMax Vista MW MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+HYTE,HYTE Y70 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",460,185,8,2,4,True,Tempered Glass,"{""ATX""}",285,560,510
+HYTE,HYTE Y70 Touch ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",460,185,8,2,4,True,Tempered Glass,"{""ATX""}",285,525,500
+Hyte,Hyte Y70 Touch ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",460,185,8,2,4,True,Tempered Glass,"{""ATX""}",285,580,505
+Lian,Lian Li Lancool 205 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",370,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Lian,Lian Li Lancool II Mesh RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",384,176,7,2,4,True,Tempered Glass,"{""ATX""}",229,478,478
+Lian,Lian Li Lancool III ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,185,8,3,4,True,Tempered Glass,"{""ATX""}",235,528,500
+Lian,Lian Li O11D Mini V2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",395,170,7,2,4,True,Tempered Glass,"{""SFX"",""SFX-L""}",272,420,384
+Lian,Lian Li O11 Dynamic ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,155,8,2,6,True,Tempered Glass,"{""ATX""}",272,446,445
+Lian,Lian Li A3-MATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,405
+Lian,Lian Li LANCOOL 205 Mesh ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Lian,Lian Li LANCOOL 206 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",370,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,455,450
+Lian,Lian Li Lancool 207 Digital ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,470,450
+Lian,Lian Li LANCOOL 207 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,175,7,2,3,True,Tempered Glass,"{""ATX""}",230,495,475
+Lian,Lian Li LANCOOL 216 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",392,180,7,2,2,True,Tempered Glass,"{""ATX""}",235,491,471
+Lian,Lian Li Lancool 216 RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",392,180,7,2,3,True,Tempered Glass,"{""ATX""}",235,491,471
+Lian,Lian Li Lancool 216 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",392,180,7,2,2,True,Tempered Glass,"{""ATX""}",235,528,491
+Lian,Lian Li LANCOOL II ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",384,176,7,3,4,True,Tempered Glass,"{""ATX""}",210,478,478
+Lian,Lian Li LANCOOL III RGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,176,8,4,4,True,Tempered Glass,"{""ATX""}",235,528,491
+Lian,Lian Li LANCOOL III RGB ATX Mid Tower Case (White),ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,176,8,3,4,True,Tempered Glass,"{""ATX""}",235,520,505
+Lian,Lian Li O11 Dynamic EVO XL ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX"",""E-ATX""}",460,167,8,3,4,True,Tempered Glass,"{""ATX""}",304,522,304
+Lian,Lian Li O11 Vision ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",460,167,8,2,4,True,Tempered Glass,"{""ATX""}",304,464,285
+Lian,Lian Li O11D EVO RGB ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",460,167,8,3,4,True,Tempered Glass,"{""ATX""}",285,465,459
+Lian,Lian Li Vector V100RW ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,,7,2,3,True,Tempered Glass,"{""ATX""}",,,
+Lian,Lian Li Vector V100RX ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",420,,7,2,3,True,Tempered Glass,"{""ATX""}",230,495,490
+Lian,Lian Li LANCOOL 205M Mesh MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",205,380,400
+MSI,MSI MAG FORGE 100R ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,464,458
+MSI,MSI MAG FORGE 130A ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+MSI,MSI MAG FORGE M100A MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,410
+MSI,MSI MAG PANO 130R PZ ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+MSI,MSI MAG PANO M100R PZ MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",215,450,400
+MSI,MSI MAG PANO M100R PZ ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,175,7,2,2,True,Tempered Glass,"{""ATX""}",210,495,475
+MSI,MSI PAG PANO M110A MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,420,400
+MSI,MSI MAG PANO M110A ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",340,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+NZXT,NZXT H1 Mini ITX Tower Case,Mini ITX Tower,"{""Mini ITX""}",305,140,2,0,2,True,Tempered Glass,"{""SFX""}",187,387,187
+NZXT,NZXT H5 Flow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",365,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,446,446
+NZXT,NZXT H510 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",381,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,460,428
+NZXT,NZXT H510i ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",381,165,7,2,3,True,Tempered Glass,"{""ATX""}",210,460,428
+NZXT,NZXT H7 Flow ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,185,7,2,4,True,Tempered Glass,"{""ATX""}",230,505,480
+Redragon,Redragon Steeljaw GC-608 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Redragon,Redragon Tailgate GC-702 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+SAMA,SAMA 205A ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+SAMA,SAMA 3311B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,390
+SAMA,SAMA Neview 2771 MicroATX Tower Case,MicroATX Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",180,380,400
+SAMA,SAMA Neview 2771 MicroATX Tower Case - White,MicroATX Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,380
+SAMA,SAMA Neview 2851A ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+SAMA,SAMA Neview 3021 ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,510,480
+SAMA,SAMA Neview 3321 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,410
+SAMA,SAMA Neview A721 BTF ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+SAMA,SAMA Neview SV01 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+SAMA,SAMA Neview SV02 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+SAMA,SAMA Truong SA ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+SAMA,SAMA V Nature ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Snowman,Snowman CS015 Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,420
+SNOWMAN,SNOWMAN CS015 Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,455,415
+Snowman,Snowman CS049 MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,380
+Snowman,Snowman CS049 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+SilverStone,SilverStone FARA SST-515XR-BG ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+SilverStone,SilverStone FARA SST-515XR-WG ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Silverstone,Silverstone FARA B1 PRO V2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+SilverStone,SilverStone FARA 514X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,175,7,2,3,True,Tempered Glass,"{""ATX""}",210,505,490
+SilverStone,SilverStone FARA R1 White ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",330,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,410
+Sonic,Sonic EL2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Sonic,Sonic K10 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Sonic,Sonic R28 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thermalright,Thermalright TL-M10 MicroATX Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,400
+Thermalright,Thermalright TL-M10 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Thermalright,Thermalright TL-M10 VISION MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Thermalright,Thermalright TL-M10 Vision ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+Thermalright,Thermalright TL-M10W MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",205,380,400
+Thermalright,Thermalright TL-M10W VISION MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Thermalright,Thermalright TL-M10W Vision ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+Thermaltake,Thermaltake The Tower 600 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,8,2,4,True,Tempered Glass,"{""ATX""}",285,600,285
+Thermaltake,Thermaltake View 270 TG ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,3,True,Tempered Glass,"{""ATX""}",220,480,450
+Thermaltake,Thermaltake View 270 TG ARGB V2 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,3,True,Tempered Glass,"{""ATX""}",220,495,450
+Thermaltake,Thermaltake View 380 TG ARGB ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,2,True,Tempered Glass,"{""ATX""}",230,510,480
+Thunder,Thunder ARMOUR TGC-A-63 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Battle Station TGC-666 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,170,7,2,4,True,Tempered Glass,"{""ATX""}",210,480,450
+Fox,Fox TGC-747 Infinity MicroATX Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",330,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,410,380
+Thunder,Thunder Carbon TGC-639B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",235,485,450
+Thunder,Thunder Crook TGC-675 MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,420,380
+Thunder,Thunder Crook TGC-675 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Thunder,Thunder Dazzler ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Diesel TGC-684 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Gladius TGC-1026-B ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Gladius TGC-1026-W ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder NOVA ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Rex MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+Thunder,Thunder Rogue TGC-657B ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Thunder,Thunder Rogue TGC-657W ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",230,495,465
+Thunder,Thunder Saber TGC-1008 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Shield ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Shield TGC-2034 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Spartan TGC-2142 MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,420,380
+Thunder,Thunder Talon TGC-2124 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Triumph TGC-414 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Triumph TGV-414 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder X-Star TGS-621 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Thunder,Thunder Zippy TGC-1026 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+XPG,XPG Cruiser ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+XPG,XPG Defender ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",370,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+XPG,XPG Invader X BTF ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+XPG,XPG LANDER 500 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+XPG,XPG Lander 500 MTA ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,175,7,2,3,True,Tempered Glass,"{""ATX""}",210,495,450
+XPG,XPG STARKER AIR BTF ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,3,True,Tempered Glass,"{""ATX""}",230,475,450
+XPG,XPG STARKER Air ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",230,495,450
+XPG,XPG STARKER Air BTF ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,175,7,2,2,True,Tempered Glass,"{""ATX""}",230,495,450
+XPG,XPG Valor Air ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+XPG,XPG VALOR AIR ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+XPG,XPG VALOR AIR Plus ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+XPG,XPG VALOR MESH ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,465,450
+XPG,XPG Valor Mesh ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,420
+Xigmatek,Xigmatek 7X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Xigmatek,Xigmatek Aquarius Plus ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,430
+Xigmatek,Xigmatek Aquarius S ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Xigmatek,Xigmatek Cyclops ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Xigmatek,Xigmatek Gaming X Arctic ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Xigmatek,Xigmatek Grip ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Xigmatek,Xigmatek Lamiya ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Xigmatek,Xigmatek Master X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Xigmatek,Xigmatek OVERTAKE ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Xigmatek,Xigmatek Overtake ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,8,2,4,True,Tempered Glass,"{""ATX""}",240,560,560
+Xigmatek,Xigmatek Poseidon ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Xigmatek,Xigmatek Sirocon III ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,430
+Xigmatek,Xigmatek Trident ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Xigmatek,Xigmatek Trio ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+Xigmatek,Xigmatek Triple X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+Xigmatek,Xigmatek Venom X ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Xigmatek,Xigmatek X Battleship ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+Xigmatek,Xigmatek X7 ATX Full Tower Case,ATX Full Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",420,180,8,3,4,True,Tempered Glass,"{""ATX""}",240,560,520
+darkFlash,darkFlash A290 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+darkFlash,darkFlash C218M MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,380,400
+darkFlash,darkFlash DF2100 ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+darkFlash,darkFlash DK210 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+darkFlash,darkFlash DK351 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+darkFlash,darkFlash DK431 ATX Mid Tower Case,ATX Mid Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",400,175,7,2,2,True,Tempered Glass,"{""ATX""}",210,480,450
+darkFlash,darkFlash DQX90 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",320,160,7,2,2,True,Tempered Glass,"{""ATX""}",210,450,400
+darkFlash,darkFlash DS900 ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,450
+darkFlash,darkFlash DY451 Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",350,165,7,2,2,True,Tempered Glass,"{""ATX""}",210,470,430
+darkFlash,darkFlash DY460 ATX Full Tower Case,ATX Full Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",400,180,7,2,2,True,Tempered Glass,"{""ATX""}",210,490,470
+darkFlash,darkFlash FLOATRON F1 MicroATX Mid Tower Case,MicroATX Mid Tower,"{""Micro ATX"",""Mini ITX""}",320,160,4,2,2,True,Tempered Glass,"{""ATX""}",210,400,400
+darkFlash,darkFlash FT418 Pro ATX Mid Tower Case,ATX Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",380,165,7,2,2,True,Tempered Glass,"{""ATX""}",220,475,420
+darkFlash,darkFlash FT418 MicroATX Mini Tower Case,MicroATX Mini Tower,"{""Micro ATX"",""Mini ITX""}",320,165,4,2,2,True,Tempered Glass,"{""ATX""}",210,420,400
+E-Dragon,E-Dragon Light Fury EG-1116 Black,Mid-Tower,"{""microATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+E-Dragon,E-Dragon Light Fury EG-1116 White,Mid-Tower,"{""microATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+E-Dragon,E-Dragon Syrax,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Boost,Boost Unicorn,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+GameMax,GameMax DESTROYER TGB,Mid-Tower,"{""microATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+GameMax,GameMax Defender TG,Mid-Tower,"{""microATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+GameMax,GameMax INFINITY Mini BK,Mini-Tower,"{""microATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+GameMax,GameMax INFINITY PRO BK,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+GameMax,GameMax INFINITY PRO HW,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Lian Li,Lian Li O11D EVO RGB Automobili Lamborghini Edition,Full-Tower,"{""E-ATX"",""ATX"",""microATX"",""Mini-ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Boost,Boost Cheetah,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Boost,Boost Panther,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Boost,Boost Unicorn,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Corsair,Corsair 480T Airflow,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Thunder,Thunder NOVA,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Thunder,Thunder Rex,Mini-Tower,"{""microATX"",""Mini-ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+XPG,XPG Cruiser,Mid-Tower,"{""ATX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+XPG,XPG Defender Mid Tower Case - White,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+XPG,XPG Invader X Mid Tower Case - Black,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+XPG,XPG Invader X Mid Tower Case - White,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Aquarius S Arctic Mid Tower Case - White,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Cyclops Gaming Case - Black,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Grip Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Overtake Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Overtake Super Tower Chassis,Super Tower,"{""E-ATX"",""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Poseidon Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Sirocon III Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Trident Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Trio Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Trio Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Triple X Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek Venom X Arctic Gaming Case,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,
+Xigmatek,Xigmatek X Battleship Gundam Theme Mid Tower Chassis,Mid Tower,"{""ATX"",""Micro ATX"",""Mini ITX""}",,,,,,True,Tempered Glass,"{""ATX""}",,,

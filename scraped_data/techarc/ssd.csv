@@ -1,0 +1,54 @@
+retailer,manufacturer,product_name,category,price,url
+techarc,ADATA,ADATA LEGEND 710 256GB PCIe Gen3 x4 M.2 2280 NVMe Solid State Drive,ssd,13700.0,https://techarc.pk/adata-legend-710-256gb-nvme-solid-state-drive/
+techarc,ADATA,ADATA LEGEND 710 2TB PCIe Gen3 x4 M.2 2280 NVMe Solid State Drive,ssd,63800.0,https://techarc.pk/adata-legend-710-2tb-nvme-solid-state-drive/
+techarc,ADATA,ADATA LEGEND 710 512GB PCIe Gen3 x4 M.2 2280 NVMe Solid State Drive,ssd,21800.0,https://techarc.pk/adata-legend-710-512gb-pcie-gen3-x4-m-2-2280-nvme-solid-state-drive/
+techarc,ADATA,ADATA LEGEND 860 1TB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,39800.0,https://techarc.pk/adata-legend-860-1tb-pcie-gen4-solid-state-drive/
+techarc,ADATA,ADATA LEGEND 860 2TB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,73200.0,https://techarc.pk/adata-legend-860-2tb-pcie-gen4-solid-state-drive/
+techarc,ADATA,ADATA LEGEND 860 500GB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,26200.0,https://techarc.pk/adata-legend-860-500gb-pcie-gen4-solid-state-drive/
+techarc,ADATA,ADATA SU650 3D-NAND 2.5in SATA III SSD – 1TB,ssd,32900.0,https://techarc.pk/adata-su650-3d-nand-2-5%e2%80%b3-sata-iii-ssd-1tb/
+techarc,ADATA,ADATA SU650 3D-NAND 2.5in SATA III SSD – 256GB,ssd,12900.0,https://techarc.pk/adata-su650-3d-nand-2-5in-sata-iii-ssd-256gb/
+techarc,ADATA,ADATA SU650 3D-NAND 2.5in SATA III SSD – 512GB,ssd,19900.0,https://techarc.pk/adata-su650-3d-nand-2-5%e2%80%b3-sata-iii-ssd-480gb/
+techarc,Hiksemi,Hiksemi FUTURE Consumer PCIE 4.0 NVMe M.2 SSD 3D TLC up to 7450MB/s –  1TB,ssd,45000.0,https://techarc.pk/hiksemi-future-consumer-pcie-4-0-nvme-m-2-ssd-1tb/
+techarc,Hiksemi,Hiksemi FUTURE Consumer PCIE 4.0 NVMe M.2 SSD 3D TLC up to 7450MB/s –  512GB,ssd,25000.0,https://techarc.pk/hiksemi-future-consumer-pcie-4-0-nvme-m-2-ssd-512gb/
+techarc,Hiksemi,Hiksemi WAVE(P) Consumer M.2 2280 PCIe 3.0 NVMe SSD 3D NAND up to 2500MB/s – 1TB,ssd,34500.0,https://techarc.pk/hiksemi-wavep-consumer-nvme-ssd-1tb/
+techarc,Hiksemi,Hiksemi WAVE(P) Consumer M.2 2280 PCIe 3.0 NVMe SSD 3D NAND up to 2500MB/s – 256GB,ssd,14500.0,https://techarc.pk/hiksemi-wavep-consumer-nvme-ssd-256gb/
+techarc,Hiksemi,Hiksemi WAVE(P) Consumer M.2 2280 PCIe 3.0 NVMe SSD 3D NAND up to 2500MB/s – 512GB,ssd,20900.0,https://techarc.pk/hiksemi-wavep-consumer-nvme-ssd-512gb/
+techarc,Hiksemi,Hiksemi WAVE(S) Consumer 2.5in SATA 3.0 SSD 6Gb/s – 128GB,ssd,8600.0,https://techarc.pk/hiksemi-waves-consumer-sata-ssd-128gb/
+techarc,Hiksemi,Hiksemi WAVE(S) Consumer 2.5in SATA 3.0 SSD 6Gb/s – 1TB,ssd,31600.0,https://techarc.pk/hiksemi-waves-consumer-sata-ssd-1tb/
+techarc,Hiksemi,Hiksemi WAVE(S) Consumer 2.5in SATA 3.0 SSD 6Gb/s – 256GB,ssd,14000.0,https://techarc.pk/hiksemi-waves-consumer-sata-ssd-256gb/
+techarc,Hiksemi,Hiksemi WAVE(S) Consumer 2.5in SATA 3.0 SSD 6Gb/s – 512GB,ssd,18000.0,https://techarc.pk/hiksemi-waves-consumer-sata-ssd-512gb/
+techarc,Kingston,"Kingston NV3 1TB M.2 2280 NVMe SSD, SNV3S/1000G, PCIe 4.0 Gen 4×4, Up to 6000 MB/s",ssd,39999.0,https://techarc.pk/kingston-nv3-snv3s-1000g-1tb-m-2-2280-nvme-ssd/
+techarc,Kingston,"Kingston NV3 2TB M.2 2280 NVMe SSD, SNV3S/2000G, PCIe 4.0 Gen 4×4, Up to 6000 MB/s",ssd,56200.0,https://techarc.pk/kingston-nv3-snv3s-2000g-2tb-m-2-2280-nvme-ssd/
+techarc,Kingston,"Kingston NV3 4TB M.2 2280 NVMe SSD, SNV3S/4000G, PCIe 4.0 Gen 4×4, Up to 6000 MB/s",ssd,103500.0,https://techarc.pk/kingston-nv3-snv3s-4000g-4tb-m-2-2280-nvme-ssd/
+techarc,Kingston,"Kingston NV3 500GB M.2 2280 NVMe SSD, SNV3S/500G, PCIe 4.0 Gen 4×4, Up to 6000 MB/s",ssd,22800.0,https://techarc.pk/kingston-snv3s-500g-nv3-500gb-m-2-2280-nvme-ssd/
+techarc,Lexar,Lexar NM610 PRO M.2 2280 PCIe Gen3x4 NVMe SSD – 1TB,ssd,34400.0,https://techarc.pk/lexar-nm610-pro-m-2-2280-pcie-gen3x4-nvme-ssd-1tb/
+techarc,Lexar,Lexar NM610 PRO M.2 2280 PCIe Gen3x4 NVMe SSD – 500GB,ssd,24200.0,https://techarc.pk/lexar-nm610-pro-m-2-2280-pcie-gen3x4-nvme-ssd-500gb/
+techarc,Lexar,Lexar NM620 256GB M.2 2280 NVMe SSD,ssd,18000.0,https://techarc.pk/lexar-nm620-256gb-m-2-2280-nvme-ssd/
+techarc,Lexar,Lexar NM790 1TB M.2 2280 NVMe SSD,ssd,51200.0,https://techarc.pk/lexar-nm790-1tb-m-2-2280-nvme-ssd/
+techarc,Lexar,Lexar NM790 4TB M.2 2280 NVMe SSD,ssd,108500.0,https://techarc.pk/lexar-nm790-4tb-m-2-2280-nvme-ssd/
+techarc,Lexar,Lexar NQ100 1TB 2.5in (6Gb/s) SATA SSD,ssd,37800.0,https://techarc.pk/lexar-nq100-1tb-2-5-6gb-s-sata-ssd-in-pakistan/
+techarc,Lexar,Lexar NQ100 256GB 2.5in (6Gb/s) SATA SSD,ssd,14000.0,https://techarc.pk/lexar-nq100-256gb-2-5-6gb-s-sata-ssd-in-pakistan/
+techarc,Lexar,Lexar NQ100 2TB 2.5in (6Gb/s) SATA SSD,ssd,66800.0,https://techarc.pk/lexar-nq100-2tb-2-5-6gb-s-sata-ssd-in-pakistan/
+techarc,Lexar,Lexar NQ100 512GB 2.5in (6Gb/s) SATA SSD,ssd,20800.0,https://techarc.pk/lexar-nq100-512gb-2-5-6gb-s-sata-ssd-in-pakistan/
+techarc,Lexar,Lexar NQ780 1TB Gen4 M.2 2280 NVMe SSD,ssd,48800.0,https://techarc.pk/lexar-nq780-1tb-gen4-m-2-2280-nvme-ssd/
+techarc,Lexar,Lexar NQ790 2TB Gen4 M.2 2280 NVMe SSD,ssd,70000.0,https://techarc.pk/lexar-nq790-2tb-gen4-m-2-2280-nvme-ssd/
+techarc,Lexar,Lexar NS100 128GB 2.5in SATA SSD,ssd,9000.0,https://techarc.pk/lexar-ns100-128gb-2-5-sata-ssd-in-pakistan/
+techarc,Lexar,"Lexar SL200 Portable USB 3.1 Type-C Portable External SSD, Up to 550MB/s – 512GB",ssd,15800.0,https://techarc.pk/lexar-sl200-portable-usb-3-1-type-c-portable-ssd-512g/
+techarc,Samsung,Samsung 870 EVO 1TB 2.5in SSD SATA,ssd,60000.0,https://techarc.pk/samsung-870-evo-1tb-2-5-ssd-sata/
+techarc,SAMSUNG,"SAMSUNG 990 EVO Plus 4TB SSD Gen4 NVMe M.2 Internal SSD, Read/Write Speeds 7,250/6,300MB/s, V NAND TLC",ssd,110500.0,https://techarc.pk/samsung-990-evo-plus-4tb-ssd-gen4-nvme-m-2-ssd/
+techarc,SAMSUNG,SAMSUNG 990 PRO Series – 1TB PCIe Gen4. X4 NVMe 2.0c – M.2 Internal SSD,ssd,60000.0,https://techarc.pk/samsung-990-pro-series-1tb-pcie-gen4-nvme/
+techarc,Samsung,"Samsung T9 USB 3.2 Gen2x2 Portable External SSD, Up to 2000MB/s – 4TB",ssd,119400.0,https://techarc.pk/samsung-t9-usb-3-2-gen2x2-portable-external-ssd-4tb/
+techarc,SanDisk,"SanDisk Extreme E61 Portable External SSD, Up to 1050MB/s – 4TB",ssd,108800.0,https://techarc.pk/sandisk-extreme-e61-portable-external-ssd-4t/
+techarc,Transcend,Transcend ESD380C 1TB Type-C Portable SSD,ssd,27800.0,https://techarc.pk/transcend-esd380c-1tb-type-c-portable-ssd/
+techarc,Western,"Western Digital 1TB WD Blue SN5000 WDS100T4B0E NVMe SSD – Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 5,500 MB/s, nCache 4.0",ssd,37800.0,https://techarc.pk/western-digital-1tb-wd-blue-sn5000-wds100t4b0e-nvme-ssd/
+techarc,Western,"Western Digital 1TB WD Green SN3000 WDS100T4G0E NVMe SSD – PCIe Gen4 x4, M.2 2280, Up to 5,000 MB/s",ssd,34900.0,https://techarc.pk/western-digital-1tb-wd-green-sn3000-nvme-ssd/
+techarc,Western,"Western Digital 2TB WD Blue SN5000 WDS200T4B0E NVMe SSD – Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 5,500 MB/s, nCache 4.0",ssd,57800.0,https://techarc.pk/western-digital-2tb-wd-blue-sn5000-wds200t4b0e-nvme-ssd/
+techarc,Western,"Western Digital 500GB WD Blue SN5000 WDS500G4B0E NVMe SSD – Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 5,500 MB/s, nCache 4.0",ssd,22800.0,https://techarc.pk/western-digital-500gb-wd-blue-sn5000-nvme-ssd-500gb/
+techarc,XPG,XPG GAMMIX S60 1TB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,45800.0,https://techarc.pk/xpg-gammix-s60-1tb-pcie-gen4-2280-solid-state-drive/
+techarc,XPG,XPG GAMMIX S60 512GB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,23500.0,https://techarc.pk/xpg-gammix-s60-512gb-pcie-gen4-2280-solid-state-drive/
+techarc,XPG,XPG GAMMIX S70 BLADE 1TB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,51000.0,https://techarc.pk/xpg-gammix-s70-blade-1tb-nvme-ssd/
+techarc,XPG,XPG GAMMIX S70 BLADE 2TB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,77000.0,https://techarc.pk/xpg-gammix-s70-blade-2tb-ssd/
+techarc,XPG,XPG GAMMIX S70 BLADE 4TB PCIe Gen4 x4 M.2 2280 Solid State Drive,ssd,118000.0,https://techarc.pk/xpg-gammix-s70-blade-4tb-pcie-gen4x4-m-2/
+techarc,XPG,XPG LEGEND 970 PRO PCIe Gen5 x4 M.2 2280 Solid State Drive – 1TB,ssd,48200.0,https://techarc.pk/xpg-legend-970-pro-pcie-gen5-x4-m-2-2280-ssd-1tb/
+techarc,XPG,XPG LEGEND 970 PRO PCIe Gen5 x4 M.2 2280 Solid State Drive – 2TB,ssd,80500.0,https://techarc.pk/xpg-legend-970-pro-pcie-gen5-x4-m-2-2280-ssd-2tb/
+techarc,XPG,XPG LEGEND 970 PRO PCIe Gen5 x4 M.2 2280 Solid State Drive – 4TB,ssd,150500.0,https://techarc.pk/xpg-legend-970-pro-pcie-gen5-x4-m-2-2280-ssd-4tb/

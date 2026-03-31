@@ -1,0 +1,42 @@
+retailer,manufacturer,product_name,category,price,url
+techarc,ASUS,"ASUS Dual GeForce RTX 4060 Ti EVO OC 16GB Gaming Graphics Card (PCIe 4.0, 16GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, 2.5-Slot Design, Axial-tech Fan Design, 0dB Technology, and More)",gpu,164500.0,https://techarc.pk/asus-dual-geforce-rtx-4060-ti-evo-oc-16gb-graphics-card/
+techarc,ASUS,ASUS Dual GeForce RTX 5050 8GB GDDR6 OC Gaming Graphics Card,gpu,104500.0,https://techarc.pk/asus-dual-rtx-5050-8gb-gddr6-graphics-card/
+techarc,ASUS,ASUS Dual GeForce RTX 5060 8GB GDDR7 OC Gaming Graphics Card,gpu,124500.0,https://techarc.pk/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-graphics-card/
+techarc,ASUS,ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Gaming Graphics Card,gpu,164500.0,https://techarc.pk/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-graphics-card/
+techarc,ASUS,ASUS Dual GeForce RTX 5060 White 8GB GDDR7 OC Gaming Graphics Card,gpu,131500.0,https://techarc.pk/asus-dual-geforce-rtx-5060-w-8gb-gddr7-oc-graphics-card/
+techarc,ASUS,ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Gaming Graphics Card,gpu,239500.0,https://techarc.pk/asus-dual-geforce-rtx-5070-12gb-gddr7-graphics-card/
+techarc,ASUS,ASUS Dual Radeon RX 9060 XT 16GB GDDR6 Gaming Graphics Card,gpu,149000.0,https://techarc.pk/asus-dual-radeon-rx-9060-xt-16gb-gddr6-graphics-card/
+techarc,ASUS,ASUS PRIME GeForce RTX 5060 Ti 8GB GDDR7 OC Gaming Graphics Card,gpu,159500.0,https://techarc.pk/asus-prime-rtx-5060-ti-8gb-gddr7-oc-graphics-card/
+techarc,ASUS,ASUS PRIME Radeon RX 9070 16GB GDDR6 OC Gaming Graphics Card,gpu,244500.0,https://techarc.pk/asus-prime-radeon-rx-9070-16gb-gddr6-graphics-card/
+techarc,GIGABYTE,"GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card, PCIe 5.0, GDDR7, GV-N5080WF3OC-16GD",gpu,434000.0,https://techarc.pk/gigabyte-rtx-5080-windforce-oc-sff-16g-graphics-card/
+techarc,MSI,MSI Gaming GeForce RTX 5050 8G SHADOW 2X OC Graphics Card,gpu,109500.0,https://techarc.pk/msi-gaming-rtx-5050-8g-shadow-2x-oc-graphics-card/
+techarc,MSI,MSI Gaming GeForce RTX 5060 8G SHADOW 2X OC Graphics Card,gpu,133500.0,https://techarc.pk/msi-geforce-rtx-5060-8g-shadow-2x-oc-graphics-card/
+techarc,MSI,MSI Gaming GeForce RTX 5060 8G VENTUS 2X OC Graphics Card,gpu,131500.0,https://techarc.pk/msi-geforce-rtx-5060-8g-ventus-2x-oc-graphics-card/
+techarc,MSI,MSI Gaming GeForce RTX 5060 8G VENTUS 2X OC Graphics Card – White,gpu,134500.0,https://techarc.pk/msi-geforce-rtx-5060-8g-ventus-2x-oc-graphics-card-wh/
+techarc,MSI,MSI Gaming GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS Graphics Card,gpu,177400.0,https://techarc.pk/msi-rtx-5060-ti-16g-shadow-2x-oc-plus-graphics-card/
+techarc,MSI,MSI Gaming GeForce RTX 5060 Ti 8G SHADOW 2X OC PLUS Graphics Card,gpu,164500.0,https://techarc.pk/msi-rtx-5060-ti-8g-shadow-2x-oc-plus-graphics-card/
+techarc,MSI,MSI GeForce RTX 3060 VENTUS 2X 12G OC Graphics Card,gpu,114500.0,https://techarc.pk/msi-geforce-rtx-3060-ventus-graphics-card/
+techarc,MSI,MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16G OC Graphics Card,gpu,154500.0,https://techarc.pk/msi-rtx-4060-ti-ventus-2x-black-16g-oc-graphics-card/
+techarc,PNY,PNY GeForce RTX 5060 8GB Stealth OC Graphics Card,gpu,116500.0,https://techarc.pk/pny-geforce-rtx-5060-8gb-stealth-oc-graphics-card/
+techarc,PNY,PNY GeForce RTX 5060 Ti 16GB Stealth OC Graphics Card,gpu,192000.0,https://techarc.pk/pny-geforce-rtx-5060-ti-16gb-stealth-oc-graphics-card/
+techarc,Sapphire,"Sapphire 11322-01-40G Nitro+ AMD Radeon RX 7900 XTX Vapor-X Gaming Graphics Card with 24GB GDDR6, AMD RDNA 3",gpu,330000.0,https://techarc.pk/sapphire-nitro-rx-7900-xtx-vapor-x-gaming-graphics-card/
+techarc,Sapphire,"Sapphire 11322-02-20G Pulse AMD Radeon RX 7900 XTX Gaming Graphics Card with 24GB GDDR6, AMD RDNA 3",gpu,309500.0,https://techarc.pk/sapphire-pulse-rx-7900-xtx-24gb-gaming-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE 11335-02-20G NITRO+ AMD Radeon RX 7700 XT 12GB Gaming Graphics Card,gpu,159400.0,https://techarc.pk/sapphire-nitro-amd-radeon-rx-7700-xt-graphics-card/
+techarc,Sapphire,"Sapphire 11335-04-20G Pulse AMD Radeon RX 7700 XT Gaming Graphics Card with 12GB GDDR6, AMD RDNA 3",gpu,148400.0,https://techarc.pk/sapphire-pulse-rx-7700-xt-12gb-gaming-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE 11339-04-20G PULSE AMD Radeon RX 7600 XT 16GB Gaming Graphics Card,gpu,123500.0,https://techarc.pk/sapphire-pulse-amd-radeon-rx-7600-xt-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE 11348-01-20G NITRO+ AMD Radeon RX 9070 XT OC 16GB Gaming Graphics Card,gpu,277400.0,https://techarc.pk/sapphire-nitro-amd-radeon-rx-9070-xt-oc-16gb/
+techarc,SAPPHIRE,SAPPHIRE 11348-03-20G PULSE AMD Radeon RX 9070 XT 16GB Gaming Graphics Card,gpu,257400.0,https://techarc.pk/sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gaming/
+techarc,SAPPHIRE,SAPPHIRE 11349-02-20G PURE AMD Radeon RX 9070 OC 16GB Gaming Graphics Card,gpu,228400.0,https://techarc.pk/sapphire-pure-amd-radeon-rx-9070-oc-16gb-gaming/
+techarc,SAPPHIRE,SAPPHIRE 11349-03-20G PULSE AMD Radeon RX 9070 16GB Gaming Graphics Card,gpu,225400.0,https://techarc.pk/sapphire-pulse-amd-radeon-rx-9070-16gb-gaming/
+techarc,SAPPHIRE,SAPPHIRE 11350-01-20G NITRO+ AMD Radeon RX 9060 XT OC 16GB Gaming Graphics Card,gpu,180400.0,https://techarc.pk/sapphire-nitro-amd-radeon-rx-9060-xt-oc-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE 11350-02-20G PURE AMD Radeon RX 9060 XT OC 16GB Gaming Graphics Card,gpu,152500.0,https://techarc.pk/sapphire-pure-amd-rx-9060-xt-oc-16gb-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE 11350-03-20G PULSE AMD Radeon RX 9060 XT OC 16GB Gaming Graphics Card,gpu,170400.0,https://techarc.pk/sapphire-pulse-amd-radeon-rx-9060-xt-oc-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE PULSE AMD Radeon RX 6400 4GB GDDR6 PCI Express 4.0 Low Profile Graphics Card,gpu,46800.0,https://techarc.pk/sapphire-pulse-rx-6400-graphics-card/
+techarc,SAPPHIRE,SAPPHIRE PULSE AMD Radeon RX 6800 16GB GDDR6 Graphic Card – Official SAPPHIRE Refurbished,gpu,98400.0,https://techarc.pk/sapphire-pulse-rx-6800-graphic-card/
+techarc,SAPPHIRE,SAPPHIRE PULSE AMD Radeon RX 6800 XT 16GB GDDR6 Graphic Card – Official SAPPHIRE Refurbished,gpu,109400.0,https://techarc.pk/sapphire-pulse-rx-6800-xt-graphic-card-ob/
+techarc,SAPPHIRE,SAPPHIRE PULSE Radeon RX 6600 8GB GDDR6 PCI Express 4.0 ATX Gaming Graphics Card – Official Sapphire Refurbished,gpu,58500.0,https://techarc.pk/sapphire-pulse-radeon-rx-6600-8gb-gddr6-pci-express-4-0-atx-gaming-graphics-card-used/
+techarc,XFX,"XFX RX-97QICKBB9 Quicksilver AMD Radeon RX 9070 OC Gaming  Graphics Card, 16GB GDDR6, 256bit, HDMI/3x DP, AMD RDNA 4",gpu,232000.0,https://techarc.pk/xfx-quicksilver-amd-radeon-rx-9070-oc-gaming-edition/
+techarc,ZOTAC,ZOTAC GAMING GeForce RTX 5050 Twin Edge 8GB GDDR6 Graphics Card,gpu,95800.0,https://techarc.pk/zotac-gaming-geforce-rtx-5050-twin-edge/
+techarc,ZOTAC,ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC 16GB GDDR7 Graphics Card – White,gpu,197000.0,https://techarc.pk/zotac-gaming-rtx-5060-ti-twin-edge-oc-graphics-card-wh/
+techarc,ZOTAC,ZOTAC GAMING GeForce RTX 5060 Twin Edge 8GB GDDR7 Graphics Card,gpu,119500.0,https://techarc.pk/zotac-gaming-rtx-5060-twin-edge-8gb-gddr7-graphics-card/
+techarc,ZOTAC,ZOTAC GAMING GeForce RTX 5080 SOLID CORE 16GB GDDR7 Gaming Graphics Card,gpu,415000.0,https://techarc.pk/zotac-gaming-rtx-5080-solid-core-16gb-graphics-card/

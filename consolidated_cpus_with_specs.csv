@@ -1,0 +1,95 @@
+manufacturer,product_name,normalized_name,socket,cores,threads,base_clock_ghz,boost_clock_ghz,tdp_watts,integrated_graphics,lithography
+AMD,AMD Ryzen 5 2600 Desktop Processor - Tray,amd ryzen 5 2600,AM4,6,12,3.4,3.9,65,,12
+AMD,AMD Ryzen 5 2600X Processor - Tray,amd ryzen 5 2600x,AM4,6,12,3.6,4.2,95,,12
+AMD,AMD Ryzen 3 4100 Desktop Processor - Tray,amd ryzen 3 4100,AM4,4,8,3.8,4.0,65,,7
+AMD,AMD Ryzen 5 3600 Processor - Tray,amd ryzen 5 3600,AM4,6,12,3.6,4.2,65,,7
+AMD,AMD Ryzen 5 1600X Processor - Tray,amd ryzen 5 1600x,AM4,6,12,3.6,4.0,95,,14
+AMD,AMD Ryzen 5 4500 Desktop Processor - Tray,amd ryzen 5 4500,AM4,6,12,3.6,4.1,65,,7
+Intel,Intel Core i5-10400F Processor - Tray,intel core i5-10400f,LGA1200,6,12,2.9,4.3,65,,14
+AMD,AMD Ryzen 5 3600X Processor - Tray,amd ryzen 5 3600x,AM4,6,12,3.8,4.4,95,,7
+Intel,"Intel Core 12th Gen i3-12100F Desktop Processor, Featuring PCIe Gen 5.0 & 4.0 Support, DDR5 and DDR4 Support, Discrete Graphics Required","intel core 12th gen i3-12100f , featuring pcie gen 5.0 & 4.0 support, ddr5 and ddr4 support, discrete graphics required",LGA1700,4,8,3.3,4.3,58,,10
+AMD,AMD Ryzen 5 3500x Desktop Procesor,amd ryzen 5 3500x procesor,AM4,6,6,3.6,4.1,65,,7
+AMD,"AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler","amd ryzen 5 3600 6-core, 12-thread with wraith stealth cooler",AM4,6,12,3.6,4.2,65,,7
+Intel,Intel Core i5-11400F Processor,intel core i5-11400f,LGA1200,6,12,2.6,4.4,65,,14
+AMD,AMD Ryzen 5 3600 3.6 GHz (4.2 GHz Max Boost) Six-Core AM4 Processor – Tray,amd ryzen 5 3600 six-core am4 –,AM4,6,12,3.6,4.2,65,,7
+AMD,AMD Ryzen 5 5600 3.5GHz 6-Core AM4 Processor – Tray,amd ryzen 5 5600 6-core am4 –,AM4,6,12,3.5,4.4,65,,7
+AMD,AMD Ryzen 5 5600X 3.7GHz Six-Core AM4 Processor – Tray,amd ryzen 5 5600x six-core am4 –,AM4,6,12,3.7,4.6,65,,7
+AMD,AMD Ryzen 5 7500F Zen 4 Desktop Processor – Tray,amd ryzen 5 7500f zen 4 –,AM5,6,12,3.7,5.0,65,,5
+AMD,AMD Ryzen 5 7600X 6-Core 4.7 GHz Socket AM5 Processor – Tray,amd ryzen 5 7600x 6-core socket am5 –,AM5,6,12,4.7,5.3,105,AMD Radeon Graphics,5
+AMD,"AMD Ryzen 5 8400F 6-Core, 12-Thread Gaming Desktop Processor – Tray","amd ryzen 5 8400f 6-core, 12-thread –",AM5,6,12,4.2,4.7,65,,4
+AMD,"AMD Ryzen 5 9600X 6-Core, 12-Thread Unlocked Gaming Desktop Processor – Tray","amd ryzen 5 9600x 6-core, 12-thread –",AM5,6,12,4.4,5.4,65,AMD Radeon Graphics,4
+AMD,"AMD Ryzen 7 7700 8-Core, 16-Thread Unlocked Desktop Processor – Tray","amd ryzen 7 7700 8-core, 16-thread –",AM5,8,16,3.8,5.3,65,AMD Radeon Graphics,5
+AMD,"AMD Ryzen 7 7800X3D 8-Core, 16-Thread Gaming Desktop Processor – Tray","amd ryzen 7 7800x3d 8-core, 16-thread –",AM5,8,16,4.2,5.0,120,AMD Radeon Graphics,5
+AMD,"AMD Ryzen 7 9800X3D 8-Core, 16-Thread Gaming Desktop Processor – Tray","amd ryzen 7 9800x3d 8-core, 16-thread –",AM5,8,16,4.2,5.0,120,,4
+AMD,"AMD Ryzen 9 9950X 16-Core, 32-Thread Desktop Gaming Processor – Tray","amd ryzen 9 9950x 16-core, 32-thread –",AM5,16,32,4.3,5.7,170,,4
+Intel,Intel Core i5-12400F – 12th Gen Alder Lake 6-Core 2.5 GHz Processor – Tray,intel core i5-12400f – 12th gen alder lake 6-core –,LGA1700,6,12,2.5,4.4,65,,10
+Intel,"Intel Core i5-13400F Desktop Processor 10 cores (6 P-cores + 4 E-cores) 20MB Cache, up to 4.6 GHz – Tray","intel core i5-13400f 10 cores 20mb cache, up to –",LGA1700,10,16,2.5,4.6,65,,10
+Intel,Intel Core i5-14400F Gaming Desktop Processor 10 Cores (6 P-cores + 4 E-cores) up to 4.7 GHz – Tray,intel core i5-14400f 10 cores up to –,LGA1700,10,16,2.5,4.7,65,,10
+Intel,"Intel Core i7-14700K Gaming Desktop Processor 33M Cache, up to 5.60 GHz","intel core i7-14700k 33m cache, up to",LGA1700,20,28,3.4,5.6,125,Intel UHD Graphics 770,10
+Intel,"Intel Core Ultra 5 245K Desktop Processor, 14 cores (6 P-cores + 8 E-cores), 14 threads, Up to 5.2 GHz Unlocked","intel core ultra 5 245k , 14 cores , 14 threads, up to",LGA1851,14,14,,5.2,125,Intel Graphics,4
+Intel,"Intel Core Ultra 7 265 Desktop Processor, 20 cores (8 P-cores + 12 E-cores), 20 threads, Up to 5.3 GHz Unlocked","intel core ultra 7 265 , 20 cores , 20 threads, up to",LGA1851,20,20,2.5,5.3,125,Intel Arc Graphics,7
+Intel,"Intel Core Ultra 7 265F Desktop Processor, 20 cores (8 P-cores + 12 E-cores), 20 threads, Up to 5.3 GHz Unlocked","intel core ultra 7 265f , 20 cores , 20 threads, up to",LGA1851,20,20,2.5,5.3,125,Intel Graphics,4
+Intel,"Intel Core Ultra 7 265K Desktop Processor, 20 cores (8 P-cores + 12 E-cores), 20 threads, Up to 5.5 GHz Unlocked","intel core ultra 7 265k , 20 cores , 20 threads, up to",LGA1851,20,20,,5.5,125,Intel Arc Graphics,4
+Intel,"Intel Core Ultra 9 285 Desktop Processor, 24 cores (8 P-cores + 16 E-cores), 24 threads, Up to 5.6 GHz Unlocked","intel core ultra 9 285 , 24 cores , 24 threads, up to",LGA1851,24,24,,5.6,125,Intel Arc Graphics,7
+Intel,"Intel Core Ultra 9 285K Desktop Processor, 24 cores (8 P-cores + 16 E-cores), 24 threads, Up to 5.7 GHz Unlocked","intel core ultra 9 285k , 24 cores , 24 threads, up to",LGA1851,24,24,,5.7,125,Intel Arc Graphics,4
+BUY,Buy AMD Ryzen 9 9950X Desktop Processor in Pakistan | TechMatched,buy amd ryzen 9 9950x,AM5,16,32,4.3,5.7,170,AMD Radeon Graphics,4
+BUY,Buy AMD Ryzen 7 9800X3D AM5 Desktop Processor in Pakistan | TechMatched,buy amd ryzen 7 9800x3d am5,AM5,8,16,4.2,5.0,120,,5
+BUY,Buy Intel i7 14700K Tray Processor in Pakistan | TechMatched,buy intel i7 14700k,LGA1700,20,28,3.4,5.6,125,Intel UHD Graphics 770,10
+BUY,Buy AMD Ryzen 7 7800X3D Tray Processor in Pakistan | TechMatched,buy amd ryzen 7 7800x3d,AM5,8,16,4.2,5.0,120,AMD Radeon Graphics,5
+BUY,Buy Intel Core Ultra 7 265K Desktop Processor in Pakistan | TechMatched,buy intel core ultra 7 265k,LGA1851,16,22,3.7,5.5,125,Intel Arc Graphics,4
+BUY,Buy Intel i9 12900K Box Processor in Pakistan | TechMatched,buy intel i9 12900k,LGA1700,16,24,3.2,5.2,125,Intel UHD Graphics 770,10
+BUY,Buy AMD Ryzen 7 9700X Tray Processor in Pakistan | TechMatched,buy amd ryzen 7 9700x,AM5,8,16,4.5,5.5,65,AMD Radeon Graphics,4
+BUY,Buy Intel i7 12700K Desktop Processor in Pakistan | TechMatched,buy intel i7 12700k,LGA1700,12,20,3.6,5.0,125,Intel UHD Graphics 770,10
+BUY,Buy AMD Ryzen 5 9600X Tray Processor in Pakistan | TechMatched,buy amd ryzen 5 9600x,AM5,6,12,4.4,5.4,65,AMD Radeon Graphics,4
+BUY,Buy AMD Ryzen 7 7700 Tray Processor in Pakistan | TechMatched,buy amd ryzen 7 7700,AM5,8,16,3.8,5.3,65,AMD Radeon Graphics,5
+BUY,Buy AMD Ryzen 5 7600X Tray Processor in Pakistan | TechMatched,buy amd ryzen 5 7600x,AM5,6,12,4.7,5.3,105,AMD Radeon Graphics,5
+BUY,Buy AMD Ryzen 5 7500F Tray Processor in Pakistan | TechMatched,buy amd ryzen 5 7500f,AM5,6,12,3.7,5.0,65,,5
+BUY,Buy Intel i5 12400F Tray Processor in Pakistan | TechMatched,buy intel i5 12400f,LGA1700,6,12,2.5,4.4,65,,10
+BUY,Buy AMD Ryzen 5 5600X Tray Processor in Pakistan | TechMatched,buy amd ryzen 5 5600x,AM4,6,12,3.7,4.6,65,,7
+BUY,Buy AMD Ryzen 5 3600 Tray Processor in Pakistan | TechMatched,buy amd ryzen 5 3600,AM4,6,12,3.6,4.2,65,,7
+AMD,"AMD RYZEN 5 3600X 6-CORE, 12-THREAD UNLOCKED DESKTOP PROCESSOR","amd ryzen 5 3600x 6-core, 12-thread",AM4,6,12,3.8,4.4,95,,7
+AMD,"AMD RYZEN 5 2600 6-CORE, 12-THREAD UNLOCKED DESKTOP PROCESSOR (TRAY)","amd ryzen 5 2600 6-core, 12-thread",AM4,6,12,3.4,3.9,65,,12
+AMD,"AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor (Tray)","amd ryzen 5 3600 6-core, 12-thread",AM4,6,12,3.6,4.2,65,,7
+INTEL,INTEL CORE I3 (12TH GEN) I3-12100 QUAD-CORE (4 CORE) 3.30 GHZ PROCESSOR (TRAY),intel core i3 i3-12100 quad-core,LGA1700,4,8,3.3,4.3,60,Intel UHD Graphics 730,10
+Intel,"Intel Core i5 Core 12400F Desktop Processor 18M Cache, up to 4.40 GHz","intel core i5 core 12400f 18m cache, up to",LGA1700,6,12,2.5,4.4,65,,10
+AMD,"AMD Ryzen 5 5600 6-Core, 12-Thread Unlocked Desktop Processor (Tray)","amd ryzen 5 5600 6-core, 12-thread",AM4,6,12,3.5,4.4,65,,7
+AMD,"AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor (Tray)","amd ryzen 5 5600x 6-core, 12-thread",AM4,6,12,3.7,4.6,65,,7
+AMD,AMD RYZEN 5 7500F 6-CORE 12-THREAD CPU PROCESSOR,amd ryzen 5 7500f 6-core 12-thread cpu,AM5,6,12,3.7,5.0,65,,5
+AMD,"AMD Ryzen 5 7600 6-Core, 12-Thread Unlocked Desktop Processor","amd ryzen 5 7600 6-core, 12-thread",AM5,6,12,3.8,5.1,65,AMD Radeon Graphics,5
+AMD,"AMD Ryzen 7 5700X 8-Core, 16-Thread Unlocked Desktop Processor","amd ryzen 7 5700x 8-core, 16-thread",AM4,8,16,3.4,4.6,65,,7
+AMD,"AMD RYZEN 7 7700 8-CORE, 16-THREAD UNLOCKED DESKTOP PROCESSOR (TRAY)","amd ryzen 7 7700 8-core, 16-thread",AM5,8,16,3.8,5.3,65,AMD Radeon Graphics,5
+AMD,"AMD RYZEN 7 5800X 8-CORE, 16-THREAD UNLOCKED DESKTOP PROCESSOR (TRAY)","amd ryzen 7 5800x 8-core, 16-thread",AM4,8,16,3.8,4.7,105,,7
+INTEL,INTEL CORE I5-12600KF DESKTOP PROCESSOR 10-CORES (6P+4E) CORES UP TO 4.9 GHZ,intel core i5-12600kf 10-cores cores up to,LGA1700,10,16,3.7,4.9,125,,10
+AMD,"AMD RYZEN 5 7600X 6-CORE, 12-THREAD UNLOCKED DESKTOP PROCESSOR","amd ryzen 5 7600x 6-core, 12-thread",AM5,6,12,4.7,5.3,105,AMD Radeon Graphics,5
+INTEL,INTEL CORE I5-12600K 10-CORES (6P+4E) CORES UP TO 4.9 GHZ,intel core i5-12600k 10-cores cores up to,LGA1700,10,16,3.7,4.9,125,Intel UHD Graphics 770,10
+AMD,"AMD Ryzen 7 7700X 8-Core, 16-Thread Unlocked Desktop Processor","amd ryzen 7 7700x 8-core, 16-thread",AM5,8,16,4.5,5.4,105,AMD Radeon Graphics,5
+INTEL,INTEL CORE I5-13600K DESKTOP PROCESSOR 14 (6 P-CORES + 8 E-CORES),intel core i5-13600k 14,LGA1700,14,20,3.5,5.1,125,Intel UHD Graphics 770,10
+INTEL,INTEL CORE I7-14700F DESKTOP PROCESSOR 20 CORES (8 P-CORES + 12 E-CORES) UP TO 5.4 GHZ,intel core i7-14700f 20 cores up to,LGA1700,20,28,2.1,5.4,65,,10
+Intel,Intel Core i7-13700KF Gaming Desktop Processor 16 cores (8 P-cores + 8 E-cores) - Unlocked,intel core i7-13700kf 16 cores -,LGA1700,16,24,3.4,5.4,125,,10
+INTEL,INTEL CORE I7-14700 DESKTOP PROCESSOR 20 CORES (8 P-CORES + 12 E-CORES) UP TO 5.4 GHZ,intel core i7-14700 20 cores up to,LGA1700,20,28,2.1,5.4,65,Intel UHD Graphics 770,10
+Intel,Intel Core Ultra 9 285 24 cores (8 P-cores + 16 E-cores) up to 5.6 GHz Desktop Processor,intel core ultra 9 285 24 cores up to,LGA1851,24,32,3.5,5.6,125,Intel Graphics,4
+AMD,AMD Ryzen 5 7500F Zen 4 CPU Processor Box,amd ryzen 5 7500f zen 4 cpu,AM5,6,12,3.7,5.0,65,,5
+AMD,AMD Ryzen 7 5700X3D Processor – Tray,amd ryzen 7 5700x3d –,AM4,8,16,3.0,4.1,105,,7
+AMD,AMD Ryzen 9 9900X3D 4.4 GHz 12-Core AM5 Processor,amd ryzen 9 9900x3d 12-core am5,AM5,12,24,4.4,5.6,170,,5
+AMD,AMD Ryzen 9 9900X 4.4 GHz 12-Core AM5 Processor,amd ryzen 9 9900x 12-core am5,AM5,12,24,4.4,5.6,120,,4
+AMD,AMD Ryzen 7 9700X 3.8 GHz 8-Core AM5 Processor Tray,amd ryzen 7 9700x 8-core am5,AM5,8,16,3.8,5.5,65,,4
+Intel,"Intel Core Ultra 5 245K – Core Ultra 5 (Series 2) Arrow Lake 14-Core (6P+8E), LGA 1851, 125W Desktop Processor","intel core ultra 5 245k – core ultra 5 arrow lake 14-core , lga 1851, 125w",LGA 1851,14,20,3.5,5.0,125,Intel Arc Graphics,20
+Intel,Intel Core i7-14700 2.1 GHz 20-Core LGA 1700 Processor (Tray),intel core i7-14700 20-core lga 1700,LGA1700,20,28,2.1,5.4,65,Intel UHD Graphics 770,10
+Intel,Intel Core Ultra 9 285K Extreme Performance & Efficient Processor,intel core ultra 9 285k extreme performance & efficient,LGA1851,24,32,3.5,5.8,125,Intel Arc Graphics,4
+Intel,Intel Core i9-13900K 3 GHz 24-Core LGA 1700 Processor Tray,intel core i9-13900k 24-core lga 1700,LGA1700,24,32,3.0,5.8,125,Intel UHD Graphics 770,10
+AMD,AMD Ryzen 9 9950X3D 4.4 GHz 16-Core AM5 Gaming Processor,amd ryzen 9 9950x3d 16-core am5,AM5,16,32,4.4,5.7,170,,4
+AMD,AMD Ryzen 7 5700X Desktop Processor – Tray,amd ryzen 7 5700x –,AM4,8,16,3.4,4.6,65,,7
+AMD,AMD Ryzen 5 8400F 4.2 GHz Six-Core AM5 Processor Tray,amd ryzen 5 8400f six-core am5,AM5,6,12,4.2,4.7,65,,4
+Intel,Intel Core Ultra 7 265K 3.9 GHz 20-Core LGA 1851 Processor,intel core ultra 7 265k 20-core lga 1851,LGA1851,20,20,3.9,5.8,125,Intel Arc Graphics,4
+Intel,Intel Core i7-14700K 3.4 GHz 14th Gen 20-Core LGA 1700 Processor (Tray),intel core i7-14700k 14th gen 20-core lga 1700,LGA1700,20,28,3.4,5.6,125,Intel UHD Graphics 770,10
+Intel,Intel Core i7-14700KF 3.4 GHz 14th Gen 20-Core LGA 1700 Processor (Tary),intel core i7-14700kf 14th gen 20-core lga 1700,LGA1700,20,28,3.4,5.6,125,,10
+Intel,Intel Core i5-14600K 3.5 GHz 14th Gen 14-Core LGA 1700 Processor (Tray),intel core i5-14600k 14th gen 14-core lga 1700,LGA1700,14,20,3.5,5.3,125,Intel UHD Graphics 770,10
+AMD,AMD Ryzen 7 9800X3D 4.7 GHz Eight-Core AM5 Processor Tray,amd ryzen 7 9800x3d eight-core am5,AM5,8,16,4.7,5.0,120,,5
+AMD,"AMD Ryzen 7 7800X3D 8-Core, 16-Thread Gaming Desktop Processor","amd ryzen 7 7800x3d 8-core, 16-thread",AM5,8,16,4.2,5.0,120,AMD Radeon Graphics,5
+AMD,AMD Ryzen 7 7700 3.8 GHz Eight-Core AM5 Processorr Tray,amd ryzen 7 7700 eight-core am5 r,AM5,8,16,3.8,5.3,65,AMD Radeon Graphics,5
+Intel,Intel Core i9-14900KF 3.2 GHz 14th Gen 24-Core LGA 1700 Processor,intel core i9-14900kf 14th gen 24-core lga 1700,LGA1700,24,32,3.2,6.0,125,,10
+Intel,Intel Core i5-14600KF 3.5 GHz 14th Gen 14-Core LGA 1700 Processor,intel core i5-14600kf 14th gen 14-core lga 1700,LGA1700,14,20,3.5,5.3,125,,10
+AMD,AMD Ryzen 9 7950X3D 4.2 GHz 16-Core AM5 Processor Tray,amd ryzen 9 7950x3d 16-core am5,AM5,16,32,4.2,5.7,120,AMD Radeon Graphics,5
+AMD,AMD Ryzen 5 7600X 4.7 GHz Six-Core AM5 Processor Tray,amd ryzen 5 7600x six-core am5,AM5,6,12,4.7,5.3,105,AMD Radeon Graphics,5
+Intel,Intel Core i9-12900K – Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor,intel core i9-12900k – core i9 12th gen alder lake 16-core lga 1700 125w intel uhd graphics 770,LGA1700,16,24,3.2,5.2,125,Intel UHD Graphics 770,10
+AMD,"AMD Ryzen 5 5600X Processor (6C/12T, 35MB Cache, up to 4.6 GHz Max Boost) Tray",amd ryzen 5 5600x,AM4,6,12,3.7,4.6,65,,7
