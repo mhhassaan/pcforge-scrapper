@@ -14,8 +14,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Install Playwright Chromium headless browser binaries for Scrapling DynamicFetcher
+# Install Playwright Chromium headless browser binaries for Scrapling DynamicFetcher & StealthyFetcher
 RUN playwright install --with-deps chromium
+RUN python -m patchright install chromium || true
 
 # Copy application code
 COPY . .
