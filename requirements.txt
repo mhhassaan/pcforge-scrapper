@@ -1,0 +1,11 @@
+scrapling>=0.2.0
+curl-cffi>=0.6.0
+browserforge>=1.0.0
+patchright>=1.40.0
+msgspec>=0.18.0
+playwright==1.41.0
+httpx==0.26.0
+psycopg2-binary==2.9.9
+openai==1.12.0
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3

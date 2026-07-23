@@ -1,0 +1,102 @@
+{
+  "junaidtech": {
+    "base_url": "https://www.junaidtech.pk",
+    "fetcher_type": "dynamic",
+    "use_selenium": false,
+    "selectors": {
+      "card": "div.product-card-2",
+      "title": "a.product-title",
+      "link": "a.product-title",
+      "price": "div.product-price",
+      "load_more": "button.load-more-btn"
+    },
+    "categories": {
+      "case.csv": "https://www.junaidtech.pk/pc-casings",
+      "cpu.csv": "https://www.junaidtech.pk/processors-cpu",
+      "gpu.csv": "https://www.junaidtech.pk/graphics-cards-gpu",
+      "motherboard.csv": "https://www.junaidtech.pk/motherboards",
+      "psu.csv": "https://www.junaidtech.pk/power-supplies-psu",
+      "ram.csv": "https://www.junaidtech.pk/ram-memory",
+      "ssd.csv": "https://www.junaidtech.pk/solid-state-drives-ssd"
+    }
+  },
+  "techarc": {
+    "base_url": "https://techarc.pk",
+    "fetcher_type": "stealth",
+    "use_selenium": false,
+    "selectors": {
+      "card": ".product",
+      "title": ".product-title a",
+      "link": ".product-title a",
+      "price": ".price .amount"
+    },
+    "categories": {
+      "case.csv": "https://techarc.pk/product-category/casings/",
+      "cpu.csv": "https://techarc.pk/product-category/processors/",
+      "gpu.csv": "https://techarc.pk/product-category/graphics-card/",
+      "motherboard.csv": "https://techarc.pk/product-category/motherboards/",
+      "psu.csv": "https://techarc.pk/product-category/power-supply/",
+      "ram.csv": "https://techarc.pk/product-category/memories/",
+      "ssd.csv": "https://techarc.pk/product-category/storage/"
+    }
+  },
+  "techmatched": {
+    "base_url": "https://techmatched.pk",
+    "fetcher_type": "stealth",
+    "use_selenium": false,
+    "selectors": {
+      "card": ".product",
+      "title": ".product-title a",
+      "link": ".product-title a",
+      "price": ".price .amount"
+    },
+    "categories": {
+      "case.csv": "https://techmatched.pk/product-category/cases/",
+      "cpu.csv": "https://techmatched.pk/product-category/processors-cpus/",
+      "motherboard.csv": "https://techmatched.pk/product-category/motherboards/",
+      "psu.csv": "https://techmatched.pk/product-category/power-supplies-psus/",
+      "ram.csv": "https://techmatched.pk/product-category/memories-rams/",
+      "gpu.csv": "https://techmatched.pk/product-category/graphics-cards/",
+      "ssd.csv": "https://techmatched.pk/product-category/storage/ssds/"
+    }
+  },
+  "walistech": {
+    "base_url": "https://www.walistech.pk",
+    "fetcher_type": "stealth",
+    "use_selenium": false,
+    "selectors": {
+      "card": "div.product",
+      "title": "a[id*='anProductName']",
+      "link": "a[id*='anProductName']",
+      "price": "div[name='grid-price'] span"
+    },
+    "categories": {
+      "case.csv": "https://www.walistech.pk/casings",
+      "cpu.csv": "https://www.walistech.pk/processors",
+      "gpu.csv": "https://www.walistech.pk/new-graphics-cards",
+      "motherboard.csv": "https://www.walistech.pk/motherboards",
+      "psu.csv": "https://www.walistech.pk/power-supply-unit",
+      "ram.csv": "https://www.walistech.pk/rams"
+    }
+  },
+  "zahcomputers": {
+    "base_url": "https://zahcomputers.pk",
+    "fetcher_type": "stealth",
+    "use_selenium": false,
+    "selectors": {
+      "card": ".product-grid-item",
+      "title": ".wd-entities-title a",
+      "link": ".wd-entities-title a",
+      "price": ".price .woocommerce-Price-amount"
+    },
+    "categories": {
+      "case.csv": "https://zahcomputers.pk/category/casing/",
+      "cpu.csv": "https://zahcomputers.pk/category/processors/",
+      "gpu.csv": "https://zahcomputers.pk/category/graphics-cards/",
+      "motherboard.csv": "https://zahcomputers.pk/category/motherboard-chipset/",
+      "psu.csv": "https://zahcomputers.pk/category/power-supplies/",
+      "ram.csv": "https://zahcomputers.pk/category/memory-module-ram/",
+      "ssd.csv": "https://zahcomputers.pk/category/sata-ssd/"
+    }
+  }
+}

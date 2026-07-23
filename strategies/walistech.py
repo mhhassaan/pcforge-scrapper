@@ -1,6 +1,5 @@
 import os
 import csv
-import hashlib
 from datetime import datetime
 from urllib.parse import urljoin
 from scrapling import Selector
@@ -8,10 +7,9 @@ from scrapling import Selector
 from common import clean_price, log_price_change, page_changed, get_scrapling_fetcher, extract_image_url
 
 def scrape(vendor_key, vendor_name, config, product_index, page_cache, vendor_folder):
-    print(f"-> Scraping '{vendor_key}' (TechMatched Scrapling StealthyFetcher)")
+    print(f"-> Scraping '{vendor_key}' (Wali's Tech Scrapling StealthyFetcher)")
     
     fetcher = get_scrapling_fetcher(config.get("fetcher_type", "stealth"))
-    base_site_url = config.get("base_url", "").rstrip("/")
     
     for filename, base_category_url in config["categories"].items():
         print(f"\n--- Category: {filename} ---")
@@ -21,12 +19,9 @@ def scrape(vendor_key, vendor_name, config, product_index, page_cache, vendor_fo
         updated_count = 0
         page = 1
         seen_products = set()
-        seen_hashes = set()
-        
-        category_url_normalized = base_category_url.rstrip("/")
         
         while True:
-            page_url = f"{category_url_normalized}/page/{page}/"
+            page_url = f"{base_category_url}?sort=0&page={page}"
             print(f"   Fetching: {page_url}")
             
             try:
@@ -35,24 +30,10 @@ def scrape(vendor_key, vendor_name, config, product_index, page_cache, vendor_fo
                 print(f"   Error fetching page {page}: {e}. Ending category.")
                 break
                 
-            final_url = getattr(response, "url", page_url).rstrip("/")
-            if base_site_url and final_url == base_site_url:
-                print("   Redirected to homepage. Stopping category.")
-                break
-            if page > 1 and final_url == category_url_normalized:
-                print("   Redirected back to category root. Reached end of pagination.")
-                break
-                
             html = getattr(response, "html_content", None) or getattr(response, "text", "")
             
-            html_hash = hashlib.md5(html.encode("utf-8", errors="replace")).hexdigest()
-            if html_hash in seen_hashes:
-                print("   Duplicate page content hash detected. Stopping pagination.")
-                break
-            seen_hashes.add(html_hash)
-            
             if not page_changed(page_url, html, page_cache):
-                print("   Page unchanged since last run. Stopping pagination.")
+                print("   Page unchanged or duplicate. Stopping pagination.")
                 break
                 
             cards = response.css(config["selectors"]["card"]) if hasattr(response, "css") else Selector(html).css(config["selectors"]["card"])
@@ -82,9 +63,12 @@ def scrape(vendor_key, vendor_name, config, product_index, page_cache, vendor_fo
                 seen_products.add(product_url)
                 page_has_valid_items = True
                 
-                price = clean_price(price_tag.text.strip()) if price_tag else 0
+                price_text = price_tag.text.strip() if price_tag else "0"
+                price = clean_price(price_text)
+                
                 card_text = card.text.lower()
                 in_stock = "out of stock" not in card_text
+                
                 image_url = extract_image_url(card, base_category_url)
                 
                 old = product_index[vendor_key].get(product_url)

@@ -1,128 +1,133 @@
-import time
 import os
 import csv
-import re
 import hashlib
 from datetime import datetime
+from urllib.parse import urljoin
+from scrapling import Selector
 
-import requests
-from bs4 import BeautifulSoup
-
-from common import clean_price, log_price_change, page_changed
-
+from common import clean_price, log_price_change, page_changed, get_scrapling_fetcher, extract_image_url
 
 def scrape(vendor_key, vendor_name, config, product_index, page_cache, vendor_folder):
-    print(f"-> Inside '{vendor_key}' scraper. Using requests/BeautifulSoup.")
-
-    base_site_url = config.get("base_url", "").rstrip("/")  # ✅ base site url
-
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/91.0.4472.124 Safari/537.36"
-        )
-    }
-
-    for filename, url in config["categories"].items():
+    print(f"-> Scraping '{vendor_key}' (TechArc Scrapling StealthyFetcher)")
+    
+    fetcher = get_scrapling_fetcher(config.get("fetcher_type", "stealth"))
+    base_site_url = config.get("base_url", "").rstrip("/")
+    
+    for filename, base_category_url in config["categories"].items():
         print(f"\n--- Category: {filename} ---")
-
+        
         products = []
         new_count = 0
         updated_count = 0
         page = 1
-        seen_html_hashes = set()
-
+        seen_products = set()
+        seen_hashes = set()
+        
+        category_url_normalized = base_category_url.rstrip("/")
+        
         while True:
-            page_url = f"{url}page/{page}/"
-            print(f"   - Fetching {page_url}")
-
+            page_url = f"{category_url_normalized}/page/{page}/"
+            print(f"   Fetching: {page_url}")
+            
             try:
-                response = requests.get(page_url, headers=headers, timeout=15, allow_redirects=True)
-                response.raise_for_status()
-            except requests.exceptions.RequestException as e:
-                print(f"   - Error fetching page: {e}")
+                response = fetcher.get(page_url)
+            except Exception as e:
+                print(f"   Error fetching page {page}: {e}. Ending category.")
                 break
-
-            # ✅ REDIRECT CHECK (skip category if redirected to homepage)
-            final_url = response.url.rstrip("/")
-
-            # ✅ If redirected to homepage → stop pagination (NOT category)
+                
+            final_url = getattr(response, "url", page_url).rstrip("/")
             if base_site_url and final_url == base_site_url:
-                print("⛔ Redirected to base URL. No more pages in this category.")
+                print("   Redirected to homepage. Stopping category.")
                 break
-
-
-            html = response.text
-
-            # 🔁 Duplicate page content check
-            html_hash = hashlib.md5(html.encode()).hexdigest()
-            if html_hash in seen_html_hashes:
-                print("   - Duplicate page content detected. Ending category.")
+                
+            html = getattr(response, "html_content", None) or getattr(response, "text", "")
+            
+            html_hash = hashlib.md5(html.encode("utf-8", errors="replace")).hexdigest()
+            if html_hash in seen_hashes:
+                print("   Duplicate page content hash detected. Stopping pagination.")
                 break
-            seen_html_hashes.add(html_hash)
-
-            # ⏭️ Page unchanged check
+            seen_hashes.add(html_hash)
+            
             if not page_changed(page_url, html, page_cache):
-                print("⏭️ Page unchanged since last run, skipping remaining pages.")
+                print("   Page unchanged since last run. Stopping pagination.")
                 break
-
-            soup = BeautifulSoup(html, "html.parser")
-            cards = soup.select(config["selectors"]["card"])
-
+                
+            cards = response.css(config["selectors"]["card"]) if hasattr(response, "css") else Selector(html).css(config["selectors"]["card"])
             if not cards:
-                print("   - No more products found on page. Ending category.")
+                print("   No product cards found on page. Ending category.")
                 break
-
+                
+            page_has_valid_items = False
             for card in cards:
-                title_tag = card.select_one(config["selectors"]["title"])
-                name = title_tag.get_text(strip=True) if title_tag else "N/A"
-
-                link_tag = card.select_one(config["selectors"]["link"])
-                product_url = link_tag["href"] if link_tag else ""
-
-                price_tag = card.select_one(config["selectors"]["price"])
-                price = clean_price(price_tag.get_text(strip=True)) if price_tag else 0.0
-
+                titles = card.css(config["selectors"]["title"])
+                prices = card.css(config["selectors"]["price"])
+                
+                if not titles:
+                    continue
+                title_tag = titles[0]
+                price_tag = prices[0] if prices else None
+                
+                name = title_tag.text.strip()
+                href = title_tag.attrib.get("href")
+                if not href or not name:
+                    continue
+                    
+                product_url = urljoin(base_category_url, href)
+                
+                if product_url in seen_products:
+                    continue
+                seen_products.add(product_url)
+                page_has_valid_items = True
+                
+                price = clean_price(price_tag.text.strip()) if price_tag else 0
+                card_text = card.text.lower()
+                in_stock = "out of stock" not in card_text
+                image_url = extract_image_url(card, base_category_url)
+                
                 old = product_index[vendor_key].get(product_url)
-
+                
                 if not old:
                     new_count += 1
                 elif old["price"] != price:
                     updated_count += 1
                     log_price_change(vendor_name, name, old["price"], price, product_url)
                 else:
+                    product_index[vendor_key][product_url]["last_seen"] = datetime.now().isoformat()
                     continue
-
+                    
                 product_index[vendor_key][product_url] = {
                     "name": name,
                     "price": price,
-                    "last_seen": datetime.now().isoformat(),
+                    "last_seen": datetime.now().isoformat()
                 }
-
+                
                 products.append([
                     len(products) + 1,
                     name,
                     vendor_name,
                     price,
                     product_url,
-                    True,
+                    in_stock,
+                    image_url or ""
                 ])
-
+                
+            if not page_has_valid_items:
+                print("   No new valid items on page. Ending category.")
+                break
+                
             page += 1
-            time.sleep(1)
-
+            
         if not products:
-            print("⚠️ No new or updated products found in this category.")
+            print("  [WARNING] No new or updated products.")
             continue
-
+            
         output_file = os.path.join(vendor_folder, filename)
         file_exists = os.path.exists(output_file)
-
+        
         with open(output_file, "a", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
             if not file_exists:
-                writer.writerow(["id", "component_name", "vendor", "price", "url", "in_stock"])
+                writer.writerow(["id", "component_name", "vendor", "price", "url", "in_stock", "image_url"])
             writer.writerows(products)
-
-        print(f"✅ New: {new_count}, Updated: {updated_count} → {filename}")
+            
+        print(f"  [OK] New: {new_count}, Updated: {updated_count} -> {filename}")
